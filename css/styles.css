@@ -1119,16 +1119,16 @@ a:visited {
 
 #jim-lippman-card{
   background-image: url("../assets/img/jim-lippman.jpg");
-
 }
+
 #jim-lippman-cover {
   background-image: url("../assets/img/jim-lippman-cover.jpg");
 }
 
 #joshua-azemoh-card{
   background-image: url("../assets/img/joshua-azemoh.jpg");
-
 }
+
 #joshua-azemoh-cover {
   background-image: url("../assets/img/joshua-azemoh-cover.jpg");
 }
@@ -1156,6 +1156,7 @@ a:visited {
 #being-young-cover {
   background-image: url("../assets/img/being-young-cover.png");
 }
+
 
 .view-profile-div {
   position: absolute;
