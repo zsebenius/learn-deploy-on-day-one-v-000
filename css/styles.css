@@ -1173,6 +1173,15 @@ a:visited {
   background-image: url("../assets/img/being-young-cover.png");
 }
 
+#araf-rahman-cover {
+  background-image: url("../assets/img/araf-rahman-cover.jpg");
+}
+
+#araf-rahman-card {
+  background-image: url("../assets/img/araf-rahman.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;
