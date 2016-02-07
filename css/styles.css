@@ -132,7 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#brian-edwards-cover {
+  background-image: url("../assets/img/brian-edwards-cover.jpg");
+}
 
+#brian-edwards-card {
+  background-image: url("../assets/img/brian-edwards.jpg");
+}
 #jesse-lawson-cover {
   background-image: url("../assets/img/jesse-cover.jpg");
 }
