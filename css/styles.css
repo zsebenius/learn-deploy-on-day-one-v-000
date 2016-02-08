@@ -13,6 +13,7 @@ html {
 
 body {
   font-family: "GothamPro", Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 html, body {
@@ -130,6 +131,28 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+#brian-edwards-cover {
+  background-image: url("../assets/img/brian-edwards-cover.jpg");
+}
+
+#brian-edwards-card {
+  background-image: url("../assets/img/brian-edwards.jpg");
+}
+#jesse-lawson-cover {
+  background-image: url("../assets/img/jesse-cover.jpg");
+}
+
+#jesse-lawson-card {
+  background-image: url("../assets/img/jesse.jpg");
+}
+
+#yumei-leventhal-cover {
+  background-image: url("../assets/img/yumei-leventhal-cover.jpg");
+}
+
+#yumei-leventhal-card {
+  background-image: url("../assets/img/yumei-leventhal-card.jpg");
 }
 
 #eli-terry-cover {
@@ -276,14 +299,6 @@ a:visited {
   background-image: url("../assets/img/daniel-brad.jpg");
 }
 
-#richard-lu-cover {
-  background-image: url("../assets/img/student-name-cover.jpg");
-}
-
-#richard-lu-card {
-  background-image: url("../assets/img/student-name.jpg");
-}
-
 #Jelson-Rodriguez-cover {
   background-image: url("../assets/img/jelson-rodriguez-cover.jpeg");
 }
@@ -302,6 +317,14 @@ a:visited {
 
 #james-novak-cover {
   background-image: url("../assets/img/james-novak-cover.jpg");
+}
+
+#luciano-krebs-card {
+  background-image: url("../assets/img/luciano-krebs.jpg");
+}
+
+#luciano-krebs-cover {
+  background-image: url("../assets/img/luciano-krebs-cover.jpg");
 }
 
 #james-novak-card {
@@ -450,6 +473,14 @@ a:visited {
 
 #justin-thomas-cover{
   background-image: url("../assets/img/justin-thomas-cover.jpg");
+}
+
+#syed-lagoon-cover{
+  background-image: url("../assets/img/syed-lagoon-cover.jpg")
+}
+
+#syed-lagoon-card {
+  background-image: url("../assets/img/syed-lagoon.jpg");
 }
 
 #shmully-wolfson-cover{
@@ -933,6 +964,14 @@ a:visited {
   background-image: url("../assets/img/julie-heyd.jpg");
 }
 
+#nicole-federici-card {
+  background-image: url("../assets/img/nicole-federici.jpg");
+}
+
+#nicole-federici-cover {
+  background-image: url("../assets/img/nicole-federici-cover.jpg");
+}
+
 #tony-st-nikolas-cover {
   background-image: url("../assets/img/tony-st-nikolas-cover.jpg");
 }
@@ -1052,20 +1091,21 @@ a:visited {
 #kirsten-ofarrell-card {
   background-image: url("../assets/img/kirsten-ofarrell.jpg");
 }
+
 #michael-perritano-cover {
   background-image: url("../assets/img/michael-perritano-cover.jpg");
 }
 
 #michael-perritano-card {
-  background-image: url("../assets/img/michael-perritano.jpg");
+  background-image: url("../assets/img/michael-perritano.jpeg");
 }
 
 #nick-stephenson-card {
-  background-image: url("../assets/img/nick-stephenson.jpg");
+  background-image: url("../assets/img/nick-stephenson.jpeg");
 }
 
 #nick-stephenson-cover {
-  background-image: url("../assets/img/nick-stephenson-cover.jpg");
+  background-image: url("../assets/img/nick-stephenson-cover.jpeg");
 }
 
 #kyle-davis-card {
@@ -1075,6 +1115,72 @@ a:visited {
 #kyle-davis-cover {
   background-image: url("../assets/img/kyle-davis-cover.jpg");
 }
+
+#chris-sexton-card {
+  background-image: url("../assets/img/chris-sexton.jpg");
+}
+
+#chris-sexton-cover {
+  background-image: url("../assets/img/chris-sexton-cover.jpg");
+}
+
+#will-saxe-profile {
+  background-image: url("../assets/img/will-saxe.jpg");
+}
+
+#will-saxe-cover {
+  background-image: url("../assets/img/will-saxe-cover.jpg");
+}
+
+#jim-lippman-card{
+  background-image: url("../assets/img/jim-lippman.jpg");
+}
+
+#jim-lippman-cover {
+  background-image: url("../assets/img/jim-lippman-cover.jpg");
+}
+
+#joshua-azemoh-card{
+  background-image: url("../assets/img/joshua-azemoh.jpg");
+}
+
+#joshua-azemoh-cover {
+  background-image: url("../assets/img/joshua-azemoh-cover.jpg");
+}
+
+#miranda-raymond-card {
+  background-image: url("../assets/img/miranda-raymond.jpg");
+}
+
+#miranda-raymond-cover {
+  background-image: url("../assets/img/miranda-raymond-cover.jpg");
+}
+
+#rachel-kory-card {
+  background-image: url("../assets/img/rachel-kory.jpg");
+}
+
+#rachel-kory-cover {
+  background-image: url("../assets/img/rachel-kory-cover.jpg");
+}
+
+#being-young-card {
+  background-image: url("../assets/img/being-young.png");
+}
+
+#being-young-cover {
+  background-image: url("../assets/img/being-young-cover.png");
+}
+
+#araf-rahman-cover {
+  background-image: url("../assets/img/araf-rahman-cover.jpg");
+}
+
+#araf-rahman-card {
+  background-image: url("../assets/img/araf-rahman.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;
@@ -1192,7 +1298,7 @@ a:visited {
 
 .profile-quote {
   font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   color: #85929d;
   width: 75%;
   margin: 0 auto;
