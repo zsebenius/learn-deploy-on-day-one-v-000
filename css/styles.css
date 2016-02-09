@@ -1204,6 +1204,14 @@ a:visited {
   background-image: url("../assets/img/lucas-moore.jpg");
 }
 
+#mc-glaser-card {
+  background-image: url("../assets/img/mc-glaser.jpg");
+}
+
+#mc-glaser-cover {
+  background-image: url("../assets/img/mc-glaser-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
