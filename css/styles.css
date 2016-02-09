@@ -1236,6 +1236,14 @@ a:visited {
   background-image: url("../assets/img/brandon-decarlo.jpg");
 }
 
+#chris-merrick-cover {
+  background-image: url("../assets/img/chris-merrick-cover.jpg");
+}
+
+#chris-merrick-card {
+  background-image: url("../assets/img/chris-merrick.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
