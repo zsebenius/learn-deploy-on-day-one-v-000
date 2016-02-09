@@ -1188,6 +1188,14 @@ a:visited {
   background-image: url("../assets/img/zoltan-szalas-cover.jpg");
 }
 
+#mary-fossbender-card {
+  background-image: url("../assets/img/mary-fossbender.jpg");
+}
+
+#mary-fossbender-cover {
+  background-image: url("../assets/img/mary-fossbender-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
