@@ -1196,6 +1196,14 @@ a:visited {
   background-image: url("../assets/img/mary-fossbender-cover.jpg");
 }
 
+#lucas-moore-cover {
+  background-image: url("../assets/img/lucas-moore-cover.jpg");
+}
+
+#lucas-moore-card {
+  background-image: url("../assets/img/lucas-moore.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
