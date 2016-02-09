@@ -1180,7 +1180,13 @@ a:visited {
   background-image: url("../assets/img/araf-rahman.jpg");
 }
 
+#zoltan-szalas-card {
+  background-image: url("../assets/img/zoltan-szalas.jpg");
+}
 
+#zoltan-szalas-cover {
+  background-image: url("../assets/img/zoltan-szalas-cover.jpg");
+}
 
 .view-profile-div {
   position: absolute;
