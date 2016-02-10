@@ -1212,6 +1212,14 @@ a:visited {
   background-image: url("../assets/img/mc-glaser-cover.jpg");
 }
 
+#shaun-mcclain-cover {
+  background-image: url("../assets/img/shaun-mcclain-cover.jpeg");
+}
+
+#shaun-mcclain-card {
+  background-image: url("../assets/img/shaun-mcclain.jpeg");
+}
+
 #john-wolfe-card {
   background-image: url("../assets/img/john-wolfe.jpg");
 }
@@ -1242,6 +1250,14 @@ a:visited {
 
 #chris-merrick-card {
   background-image: url("../assets/img/chris-merrick.jpg");
+}
+
+#josh-nevius-card {
+  background-image: url("../assets/img/josh-nevius.jpg");
+}
+
+#josh-nevius-cover {
+  background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
 .view-profile-div {
