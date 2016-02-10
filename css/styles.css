@@ -1180,7 +1180,6 @@ a:visited {
   background-image: url("../assets/img/araf-rahman.jpg");
 }
 
-<<<<<<< HEAD
 #zoltan-szalas-card {
   background-image: url("../assets/img/zoltan-szalas.jpg");
 }
@@ -1251,6 +1250,14 @@ a:visited {
 
 #chris-merrick-card {
   background-image: url("../assets/img/chris-merrick.jpg");
+}
+
+#josh-nevius-card {
+  background-image: url("../assets/img/josh-nevius.jpg");
+}
+
+#josh-nevius-cover {
+  background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
 .view-profile-div {
