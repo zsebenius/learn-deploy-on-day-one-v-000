@@ -1259,7 +1259,13 @@ a:visited {
 #josh-nevius-cover {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
+#mairead-murphy-cover {
+  background-image: url("../assets/img/mairead-cover.jpg");
+}
 
+#mairead-murphy-card {
+  background-image: url("../assets/img/mairead-murphy-profile-photo.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
