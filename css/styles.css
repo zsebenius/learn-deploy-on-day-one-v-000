@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#brennen-awana-cover {
+  background-image: url("../assets/img/brennen-awana-cover.jpg");
+}
+
+#brennen-awana-card {
+  background-image: url("../assets/img/brennen-awana.jpg");
+}
 #brian-edwards-cover {
   background-image: url("../assets/img/brian-edwards-cover.jpg");
 }
