@@ -1268,6 +1268,14 @@ a:visited {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
+#steven-davies-card {
+  background-image: url("../assets/img/steven-davies.jpg");
+}
+
+#steven-davies-cover {
+  background-image: url("../assets/img/steven-davies-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
