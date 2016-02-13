@@ -1268,6 +1268,14 @@ a:visited {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
+#paul-garay-card {
+  background-image: url("../assets/img/paul-garay.jpg");
+}
+
+#paul-garay-cover {
+  background-image: url("../assets/img/paul-garay-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
