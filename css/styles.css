@@ -1268,6 +1268,14 @@ a:visited {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
+#rachel-stratemeier-card {
+  background-image: url("../assets/img/rachel-stratemeier.jpg");
+}
+
+#rachel-stratemeier-cover {
+  background-image: url("../assets/img/rachel-stratemeier-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
