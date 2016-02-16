@@ -1268,6 +1268,14 @@ a:visited {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
+#jaclyn-ciringione-card {
+  background-image: url("../assets/img/JaclynCiringione.jpg");
+}
+
+#jaclyn-ciringione-cover {
+  background-image: url("../assets/img/JaclynCiringione_Cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
