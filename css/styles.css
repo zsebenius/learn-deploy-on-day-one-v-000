@@ -132,6 +132,16 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#seunghwan-kim-cover {
+  background-image: url("../assets/img/seunghwan-kim-cover.png");
+}
+
+#seunghwan-kim-card {
+  background-image: url("../assets/img/seunghwan-kim.png");
+}
+
+
 #brian-edwards-cover {
   background-image: url("../assets/img/brian-edwards-cover.jpg");
 }
