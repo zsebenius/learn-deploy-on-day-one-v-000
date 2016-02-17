@@ -1332,6 +1332,14 @@ a:visited {
   background-image: url("../assets/img/rachel-stratemeier-cover.jpg");
 }
 
+#enoch-griffith-card {
+  background-image: url("../assets/img/enoch-griffith.jpg");
+}
+
+#enoch-griffith-cover {
+  background-image: url("../assets/img/enoch-cover-pic.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
