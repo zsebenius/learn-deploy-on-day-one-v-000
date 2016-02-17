@@ -1340,6 +1340,14 @@ a:visited {
   background-image: url("../assets/img/enoch-cover-pic.jpg");
 }
 
+#jaclyn-ciringione-card {
+  background-image: url("../assets/img/JaclynCiringione.jpg");
+}
+
+#jaclyn-ciringione-cover {
+  background-image: url("../assets/img/JaclynCiringione_Cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
