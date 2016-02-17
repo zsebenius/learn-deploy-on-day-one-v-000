@@ -1060,6 +1060,12 @@ a:visited {
   background-image: url("../assets/img/kevin-mccormack.jpg");
 }
 
+#brian-holland-card {
+  background-image: url("../assets/img/brian-holland.jpg");
+}
+#brian-holland-cover {
+  background-image: url("../assets/img/brian-holland-cover.jpg");
+}
 #sean-liu-card {
   background-image: url("../assets/img/sean-liu.jpg");
 }
