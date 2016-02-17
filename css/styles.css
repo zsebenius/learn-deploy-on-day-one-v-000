@@ -132,6 +132,23 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#brennen-awana-cover {
+  background-image: url("../assets/img/brennen-awana-cover.jpg");
+}
+
+#brennen-awana-card {
+  background-image: url("../assets/img/brennen-awana.jpg");
+}
+
+#seunghwan-kim-cover {
+  background-image: url("../assets/img/seunghwan-kim-cover.png");
+}
+
+#seunghwan-kim-card {
+  background-image: url("../assets/img/seunghwan-kim.png");
+}
+
 #brian-edwards-cover {
   background-image: url("../assets/img/brian-edwards-cover.jpg");
 }
@@ -145,6 +162,14 @@ a:visited {
 
 #jesse-lawson-card {
   background-image: url("../assets/img/jesse.jpg");
+}
+
+#leah-garber-cover {
+  background-image: url("../assets/img/leah-garber-cover.png")
+}
+
+#leah-garber-card {
+  background-image: url("../assets/img/leah-garber.png")
 }
 
 #yumei-leventhal-cover {
@@ -167,8 +192,9 @@ a:visited {
   background-image: url("../assets/img/aaron-enser.jpg");
 }
 #aaron-enser-cover {
-  background-image: url("../assets/img/aaron-enser-cover.JPG");
+  background-image: url("../assets/img/aaron-enser-cover.jpeg");
 }
+
 #hiral-desai-card{
   background-image: url("../assets/img/hiral-desai.jpg");
 }
@@ -297,6 +323,14 @@ a:visited {
 
 #daniel-brad-card {
   background-image: url("../assets/img/daniel-brad.jpg");
+}
+
+#dominic-faulring-cover {
+  background-image: url("../assets/img/dominic-faulring-cover.jpg");
+}
+
+#dominic-faulring-card {
+  background-image: url("../assets/img/dominic-faulring.jpg");
 }
 
 #Jelson-Rodriguez-cover {
@@ -1052,6 +1086,12 @@ a:visited {
   background-image: url("../assets/img/kevin-mccormack.jpg");
 }
 
+#brian-holland-card {
+  background-image: url("../assets/img/brian-holland.jpg");
+}
+#brian-holland-cover {
+  background-image: url("../assets/img/brian-holland-cover.jpg");
+}
 #sean-liu-card {
   background-image: url("../assets/img/sean-liu.jpg");
 }
@@ -1258,6 +1298,54 @@ a:visited {
 
 #josh-nevius-cover {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
+}
+
+#mairead-murphy-cover {
+  background-image: url("../assets/img/mairead-cover.jpg");
+}
+
+#mairead-murphy-card {
+  background-image: url("../assets/img/mairead-murphy-profile-photo.jpg");
+}
+
+#steven-davies-card {
+  background-image: url("../assets/img/steven-davies.jpg");
+}
+
+#steven-davies-cover {
+  background-image: url("../assets/img/steven-davies-cover.jpg");
+}
+
+#paul-garay-card {
+  background-image: url("../assets/img/paul-garay.jpg");
+}
+
+#paul-garay-cover {
+  background-image: url("../assets/img/paul-garay-cover.jpg");
+}
+
+#rachel-stratemeier-card {
+  background-image: url("../assets/img/rachel-stratemeier.jpg");
+}
+
+#rachel-stratemeier-cover {
+  background-image: url("../assets/img/rachel-stratemeier-cover.jpg");
+}
+
+#enoch-griffith-card {
+  background-image: url("../assets/img/enoch-griffith.jpeg");
+}
+
+#enoch-griffith-cover {
+  background-image: url("../assets/img/enoch-cover-pic.jpg");
+}
+
+#jaclyn-ciringione-card {
+  background-image: url("../assets/img/JaclynCiringione.jpg");
+}
+
+#jaclyn-ciringione-cover {
+  background-image: url("../assets/img/JaclynCiringione_Cover.jpg");
 }
 
 .view-profile-div {
