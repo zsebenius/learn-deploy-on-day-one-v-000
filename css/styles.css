@@ -132,6 +132,7 @@ a:visited {
   display: block;
   height: 400px;
 }
+
 #brennen-awana-cover {
   background-image: url("../assets/img/brennen-awana-cover.jpg");
 }
@@ -139,6 +140,15 @@ a:visited {
 #brennen-awana-card {
   background-image: url("../assets/img/brennen-awana.jpg");
 }
+
+#seunghwan-kim-cover {
+  background-image: url("../assets/img/seunghwan-kim-cover.png");
+}
+
+#seunghwan-kim-card {
+  background-image: url("../assets/img/seunghwan-kim.png");
+}
+
 #brian-edwards-cover {
   background-image: url("../assets/img/brian-edwards-cover.jpg");
 }
@@ -182,8 +192,9 @@ a:visited {
   background-image: url("../assets/img/aaron-enser.jpg");
 }
 #aaron-enser-cover {
-  background-image: url("../assets/img/aaron-enser-cover.JPG");
+  background-image: url("../assets/img/aaron-enser-cover.jpeg");
 }
+
 #hiral-desai-card{
   background-image: url("../assets/img/hiral-desai.jpg");
 }
@@ -1289,7 +1300,6 @@ a:visited {
   background-image: url("../assets/img/josh-nevius-cover.jpg");
 }
 
-<<<<<<< HEAD
 #mairead-murphy-cover {
   background-image: url("../assets/img/mairead-cover.jpg");
 }
