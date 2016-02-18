@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#john-malto-cover {
+  background-image: url("../assets/img/john-malto-cover.jpg");
+}
+
+#john-malto-card {
+  background-image: url("../assets/img/john-malto.jpg");
+}
+
 #brennen-awana-cover {
   background-image: url("../assets/img/brennen-awana-cover.jpg");
 }
