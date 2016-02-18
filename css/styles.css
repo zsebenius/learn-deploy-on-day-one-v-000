@@ -1348,6 +1348,14 @@ a:visited {
   background-image: url("../assets/img/JaclynCiringione_Cover.jpg");
 }
 
+#tadzio-smith-card {
+  background-image: url("../assets/img/tadzio-smith.jpg");
+}
+
+#tadzio-smith-cover {
+  background-image: url("../assets/img/tadzio-smith-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
