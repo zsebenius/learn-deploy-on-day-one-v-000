@@ -770,6 +770,14 @@ a:visited {
   background-image: url("../assets/img/dan-osment.jpg");
 }
 
+#cernan-bernardo-cover {
+  background-image: url("../assets/img/cernan-bernardo-cover.jpg");
+}
+
+#cernan-bernardo-card {
+  background-image: url("../assets/img/cernan-bernardo.jpg");
+}
+
 #joe-lachance-cover {
   background-image: url("../assets/img/joe-lachance-cover.jpg");
 }
