@@ -1363,7 +1363,13 @@ a:visited {
 #tadzio-smith-cover {
   background-image: url("../assets/img/tadzio-smith-cover.jpg");
 }
+#sruti-sriram {
+  background-image: url("../assets/img/sruti-sriram.jpg");
+}
 
+#sruti-sriram-cover {
+  background-image: url("../assets/img/sruti-sriram-cover.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
