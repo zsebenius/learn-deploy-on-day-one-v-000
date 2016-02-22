@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#andy-touch-cover {
+  background-image: url("../assets/img/andy-touch-cover.jpg");
+}
+
+#andy-touch-card {
+  background-image: url("../assets/img/andy-touch.jpg");
+}
+
 #brennen-awana-cover {
   background-image: url("../assets/img/brennen-awana-cover.jpg");
 }
