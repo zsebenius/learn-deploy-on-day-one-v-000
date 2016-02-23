@@ -3059,6 +3059,15 @@ a:visited {
   background-image: url("../assets/img/tadzio-smith-cover.jpg");
 }
 
+#jermaine-fray-card {
+  background-image: url("../assets/img/jermaine-fray.jpg");
+}
+
+#jermaine-fray-cover {
+  background-image: url("../assets/img/jermaine-fray-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
