@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#asher-sullivan-card {
+  background-image: url("../assets/img/asher-sullivan.jpg");
+}
+
+#asher-sullivan-cover {
+  background-image: url("../assets/img/asher-sullivan-cover.jpg");
+}
+
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
