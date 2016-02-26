@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#cody-schleif-cover {
+  background-image: url("../assets/img/cody-schleif-cover.jpg");
+}
+
+#cody-schleif-card {
+  background-image: url("../assets/img/cody-schleif-profile.jpg");
+}
+
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
