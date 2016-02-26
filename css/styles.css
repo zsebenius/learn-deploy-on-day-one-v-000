@@ -149,6 +149,14 @@ a:visited {
   background-image: url("../assets/img/brennen-awana.jpg");
 }
 
+#eric-loos-cover {
+  background-image: url("../assets/img/eric-loos-cover.jpg");
+}
+
+#eric-loos-card {
+  background-image: url("../assets/img/eric-loos.jpg");
+}
+
 #seunghwan-kim-cover {
   background-image: url("../assets/img/seunghwan-kim-cover.png");
 }
