@@ -132,7 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#elizabeth-simonian-cover {
+  background-image: url("../assets/img/elizabeth-simonian-cover.jpg");
+}
 
+#elizabeth-simonian-card {
+  background-image: url("../assets/img/elizabeth-simonian.jpg");
+}
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
