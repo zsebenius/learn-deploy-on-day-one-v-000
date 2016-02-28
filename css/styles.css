@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#seth-lachman-cover {
+  background-image: url("../assets/img/seth-lachman-cover.jpg");
+
+}
+#seth-lachman-card {
+  background-image: url("../assets/img/seth-lachman.jpg");
+}
 
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
