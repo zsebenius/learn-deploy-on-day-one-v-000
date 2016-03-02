@@ -2077,6 +2077,8 @@ a:visited {
   background-image: url("../assets/img/john-anthony-profile.jpg");
 }
 
+
+
 #preet-dha-cover {
   background-image: url("../assets/img/preet-dha-cover.jpg");
 }
@@ -2687,6 +2689,7 @@ a:visited {
   background-image: url("../assets/img/tadzio-smith-cover.jpg");
 }
 
+
 #jermaine-fray-card {
   background-image: url("../assets/img/jermaine-fray.jpg");
 }
@@ -2694,6 +2697,15 @@ a:visited {
 #jermaine-fray-cover {
   background-image: url("../assets/img/jermaine-fray-cover.jpg");
 }
+
+#connor-marble-card {
+  background-image: url("../assets/img/connor-marble.jpg");
+}
+
+#connor-marble-cover {
+  background-image: url("../assets/img/connor-marble-cover.jpg");
+}
+
 
 
 .view-profile-div {
