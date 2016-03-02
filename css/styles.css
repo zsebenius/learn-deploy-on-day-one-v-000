@@ -1417,6 +1417,14 @@ a:visited {
 #sruti-sriram-cover {
   background-image: url("../assets/img/sruti-sriram-cover.jpg");
 }
+
+#greg-fisher-card{
+  background-image: url("../assets/img/greg-fisher.jpg");
+}
+#greg-fisher-cover {
+  background-image: url("../assets/img/greg-fisher-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
