@@ -152,6 +152,14 @@ a:visited {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
 
+#eban-hernandez-cover {
+  background-image: url("../assets/img/eban-hernandez-cover.jpg");
+}
+
+#eban-hernandez-card {
+  background-image: url("../assets/img/eban-hernandez.jpg");
+}
+
 #andy-touch-card {
   background-image: url("../assets/img/andy-touch.jpg");
 }
