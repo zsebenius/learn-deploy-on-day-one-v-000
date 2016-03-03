@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#christina-delavar-cover {
+  background-image: url("../assets/img/Christina-Delavar-cover.jpg");
+}
+
+#christina-delavar-card {
+  background-image: url("../assets/img/Christina-Delavar.jpg");
+}
+
 #seth-lachman-cover {
   background-image: url("../assets/img/seth-lachman-cover.jpg");
 }
