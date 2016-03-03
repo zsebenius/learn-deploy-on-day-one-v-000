@@ -2711,6 +2711,14 @@ a:visited {
   background-image: url("../assets/img/peter-jacobson-cover.jpg");
 }
 
+#pedro-altoe-card {
+  background-image: url("../assets/img/pedro-altoe.jpg");
+}
+
+#pedro-altoe-cover {
+  background-image: url("../assets/img/pedro-altoe-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
