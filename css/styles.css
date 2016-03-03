@@ -2695,6 +2695,14 @@ a:visited {
   background-image: url("../assets/img/jermaine-fray-cover.jpg");
 }
 
+#peter-jacobson-card {
+  background-image: url("../assets/img/peter-jacobson.jpeg");
+}
+
+#peter-jacobson-cover {
+  background-image: url("../assets/img/peter-jacobson-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
