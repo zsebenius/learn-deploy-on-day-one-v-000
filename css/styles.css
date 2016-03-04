@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#valentin-rosu-cover {
+  background-image: url("../assets/img/valentin-rosu-cover.jpg");
+}
+
+#valentin-rosu-card {
+  background-image: url("../assets/img/valentin-rosu.jpg");
+}
+
 #christina-delavar-cover {
   background-image: url("../assets/img/Christina-Delavar-cover.jpg");
 }
