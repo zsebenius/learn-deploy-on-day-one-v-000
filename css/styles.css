@@ -2730,6 +2730,13 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#lucya-koroleva-card {
+  background-image: url("../assets/img/lucya-koroleva.jpg");
+}
+
+#lucya-koroleva-cover {
+  background-image: url("../assets/img/lucya-koroleva-cover.jpg");
+}
 
 .view-profile-div {
   position: absolute;
