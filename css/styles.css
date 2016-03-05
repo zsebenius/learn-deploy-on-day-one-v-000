@@ -2730,6 +2730,14 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#tyler-smith-card {
+  background-image: url("../assets/img/tyler-smith.jpg");
+}
+
+#tyler-smith-cover {
+  background-image: url("../assets/img/tyler-smith-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
