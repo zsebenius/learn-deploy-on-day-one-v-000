@@ -2730,6 +2730,13 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#michael-peimani-card {
+  background-image: url("../assets/img/michael-peimani.jpg");
+}
+
+#michael-peimani-cover {
+  background-image: url("../assets/img/michael-peimani-cover.jpg");
+}
 
 .view-profile-div {
   position: absolute;
