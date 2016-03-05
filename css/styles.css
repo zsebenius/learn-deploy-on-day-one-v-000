@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#bradley-ashburn-cover {
+  background-image: url("../assets/img/bradley-ashburn-cover.jpg");
+}
+
+#bradley-ashburn-card {
+  background-image: url("../assets/img/bradley-ashburn.png");
+}
+
 #christina-delavar-cover {
   background-image: url("../assets/img/Christina-Delavar-cover.jpg");
 }
@@ -172,6 +180,7 @@ a:visited {
 #elizabeth-simonian-card {
   background-image: url("../assets/img/elizabeth-simonian.jpg");
 }
+
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
