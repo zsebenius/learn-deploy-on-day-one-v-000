@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#david-ward-cover {
+  background-image: url("../assets/img/david-ward-cover.jpg");
+}
+
+#david-ward-card {
+  background-image: url("../assets/img/david-ward.jpg");
+}
+
 #christina-delavar-cover {
   background-image: url("../assets/img/Christina-Delavar-cover.jpg");
 }
