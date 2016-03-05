@@ -2730,6 +2730,14 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#rami-ah-card {
+  background-image: url("../assets/img/rami.jpg");
+}
+
+#rami-ah-cover {
+  background-image: url("../assets/img/rami-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
