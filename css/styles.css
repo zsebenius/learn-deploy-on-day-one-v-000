@@ -2730,6 +2730,13 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#justin-hamlin-card {
+  background-image: url("../assets/img/justin-hamlin.jpg");
+}
+#justin-hamlin-cover {
+  background-image: url("../assets/img/justin-hamlin-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
