@@ -2796,6 +2796,14 @@ a:visited {
   background-image: url("../assets/img/tyler-smith-cover.jpg");
 }
 
+#justin-hamlin-card {
+  background-image: url("../assets/img/justin-hamlin.jpg");
+}
+
+#justin-hamlin-cover {
+  background-image: url("../assets/img/justin-hamlin-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
