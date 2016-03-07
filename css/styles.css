@@ -856,6 +856,14 @@ a:visited {
   background-image: url("../assets/img/ryan-johnson.jpg");
 }
 
+#ryan-mcneely-cover {
+  background-image: url("../assets/img/ryan-mcneely-cover.jpg");
+}
+
+#ryan-mcneely-card {
+    background-image: url("../assets/img/ryan-mcneely.jpg");
+}
+
 #tracy-tran-cover {
   background-image: url(../assets/img/tracy-tran-cover.jpg);
 }
