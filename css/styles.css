@@ -141,6 +141,14 @@ a:visited {
   background-image: url("../assets/img/valentin-rosu.jpg");
 }
 
+#tj-hill-cover {
+  background-image: url("../assets/img/tj-hill-cover.png");
+}
+
+#tj-hill-card {
+  background-image: url("../assets/img/tj-hill.png");
+}
+
 #christina-delavar-cover {
   background-image: url("../assets/img/Christina-Delavar-cover.jpg");
 }
