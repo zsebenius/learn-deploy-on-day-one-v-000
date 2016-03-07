@@ -147,6 +147,15 @@ a:visited {
 
 #tj-hill-card {
   background-image: url("../assets/img/tj-hill.png");
+
+}
+
+#david-ward-cover {
+  background-image: url("../assets/img/david-ward-cover.jpg");
+}
+
+#david-ward-card {
+  background-image: url("../assets/img/david-ward.jpg");
 }
 
 #christina-delavar-cover {
