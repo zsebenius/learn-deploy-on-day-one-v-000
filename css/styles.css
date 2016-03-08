@@ -2828,6 +2828,14 @@ a:visited {
   background-image: url("../assets/img/lucya-koroleva-cover.jpg");
 }
 
+#phil-grossman-cover {
+  background-image:url("../assets/img/phil-grossman-cover.jpg");
+}
+
+#phil-grossman-card {
+  background-image:url("../assets/img/phil-grossman.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
