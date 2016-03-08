@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#dev-e-loper-cover {
+  background-image: url("../assets/img/dev-e-loper-cover.jpg");
+}
+
+#dev-e-loper-card {
+  background-image: url("../assets/img/dev-e-loper.jpg");
+}
+
 #valentin-rosu-cover {
   background-image: url("../assets/img/valentin-rosu-cover.jpg");
 }
@@ -2921,6 +2929,7 @@ a:visited {
 .profile-quote {
   font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
   font-size: 22px;
+  line-height: 1.45em;
   color: #85929d;
   width: 75%;
   margin: 0 auto;
