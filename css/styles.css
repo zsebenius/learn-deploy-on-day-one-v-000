@@ -2820,6 +2820,14 @@ a:visited {
   background-image: url("../assets/img/lucya-koroleva-cover.jpg");
 }
 
+#michel-fuchs-card {
+  background-image: url("../assets/img/michel-fuchs.jpg");
+}
+
+#michel.fuchs-cover {
+  background-image: url("../assets/img/michel-fuchs-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
