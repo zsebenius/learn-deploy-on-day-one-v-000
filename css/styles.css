@@ -2804,6 +2804,14 @@ a:visited {
   background-image: url("../assets/img/justin-hamlin-cover.jpg");
 }
 
+#morgan-osborne-card {
+  background-image: url("../assets/img/morgan-osborne.png");
+}
+
+#morgan-osborne-cover {
+  background-image: url("../assets/img/morgan-osborne-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
