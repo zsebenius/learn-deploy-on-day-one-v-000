@@ -2852,6 +2852,14 @@ a:visited {
   background-image: url("../assets/img/michel-fuchs-cover.jpg");
 }
 
+#adam-dorsky-card {
+  background-image: url("../assets/img/adam-dorsky.jpg");
+}
+
+#adam-dorsky-cover {
+  background-image: url("../assets/img/adam-dorsky-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
