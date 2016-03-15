@@ -1364,6 +1364,14 @@ a:visited {
   background-image: url("../assets/img/mary-fossbender-cover.jpg");
 }
 
+#michael-casciato-cover {
+  background-image: url("..assets/img/michael-casciato-cover.jpg")''
+}
+
+#michael-casciato-card {
+  background-image: url("..assets/img/michael-casciato.jpg");
+}
+
 #lucas-moore-cover {
   background-image: url("../assets/img/lucas-moore-cover.jpg");
 }
