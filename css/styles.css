@@ -2860,6 +2860,14 @@ a:visited {
   background-image: url("../assets/img/adam-dorsky-cover.jpg");
 }
 
+#andy-kim-card {
+  background-image: url("../assets/img/andy-kim.jpg");
+}
+
+#andy-kim-cover {
+  background-image: url("../assets/img/andy-kim-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
