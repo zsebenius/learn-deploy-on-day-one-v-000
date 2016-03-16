@@ -2887,6 +2887,14 @@ a:visited {
   background-image: url("../assets/img/adam-dorsky-cover.jpg");
 }
 
+#toanh-tran-cover {
+  background-image: url("../assets/img/toanh-tran-cover.jpg");
+}
+
+#toanh-tran-card {
+  background-image: url("../assets/img/toanh-tran.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
