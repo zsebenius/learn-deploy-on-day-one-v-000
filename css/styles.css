@@ -2903,6 +2903,14 @@ a:visited {
   background-image: url("../assets/img/toanh-tran.jpg");
 }
 
+#vannak-chhay-cover {
+  background-image: url("../assets/img/vannak-chhay-cover.jpg");
+}
+
+#vannak-chhay-card {
+  background-image: url("../assets/img/vannak-chhay.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
