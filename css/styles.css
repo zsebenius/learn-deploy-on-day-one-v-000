@@ -495,6 +495,14 @@ a:visited {
   background-image: url("../assets/img/luciano-krebs-cover.jpg");
 }
 
+#lush-sleutsky-card {
+  background-image: url("../assets/img/lush-sleutsky.jpg");
+}
+
+#lush-sleutsky-cover {
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
+}
+
 #james-novak-card {
   background-image: url("../assets/img/james-novak.jpg");
 }
