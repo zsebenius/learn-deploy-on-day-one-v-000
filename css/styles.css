@@ -2903,6 +2903,14 @@ a:visited {
   background-image: url("../assets/img/toanh-tran.jpg");
 }
 
+#karuna-sehgal-cover {
+  background-image: url("../assets/img/karuna-sehgal-cover.jpg");
+}
+
+#karuna-sehgal-card {
+  background-image: url("../assets/img/karuna-sehgal.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
