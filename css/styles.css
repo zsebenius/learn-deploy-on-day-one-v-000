@@ -1811,6 +1811,14 @@ a:visited {
   background-image: url("../assets/img/jason-southwell.jpg");
 }
 
+#amanita-s-card {
+  background-image: url("../assets/img/amanita-s.jpg");
+}
+
+#amanita-s-cover {
+  background-image: url("../assets/img/amanita-s-cover.jpg");
+}
+
 #jason-southwell-cover {
   background-image: url("../assets/img/jason-southwell-cover.jpg");
   background-position: center bottom;
