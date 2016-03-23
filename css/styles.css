@@ -162,6 +162,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#josh-avina-cover {
+  background-image: url("../assets/img/josh-avina-cover.jpg");
+}
+
+#josh-avina-card {
+  background-image: url("../assets/img/josh-avina.jpg");
+}
+
 #yuriy-vinnicov-cover {
   background-image: url("../assets/img/yuriy-vinnicov-cover.jpg");
 }
