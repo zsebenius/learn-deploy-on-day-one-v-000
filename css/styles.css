@@ -1402,11 +1402,11 @@ a:visited {
 }
 
 #michael-casciato-cover {
-  background-image: url("..assets/img/michael-casciato-cover.jpg")''
+  background-image: url("../assets/img/michael-casciato-cover.jpg")''
 }
 
 #michael-casciato-card {
-  background-image: url("..assets/img/michael-casciato.jpg");
+  background-image: url("../assets/img/michael-casciato.jpg");
 }
 
 #lucas-moore-cover {
@@ -2949,6 +2949,14 @@ a:visited {
 
 #karuna-sehgal-card {
   background-image: url("../assets/img/karuna-sehgal.jpg");
+}
+
+#norihisa-mori-cover {
+  background-image:url("../assets/img/norihisa-mori-cover.jpg");
+}
+
+#norihisa-mori-card {
+  background-image:url("../assets/img/norihisa-mori.png");
 }
 
 .view-profile-div {
