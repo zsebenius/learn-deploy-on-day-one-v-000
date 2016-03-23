@@ -2903,6 +2903,14 @@ a:visited {
   background-image: url("../assets/img/toanh-tran.jpg");
 }
 
+#christian-whitesides-cover {
+  background-image: url("../assets/img/christian-whitesides-cover.png");
+}
+
+#christian-whitesides-card {
+  background-image: url("../assets/img/christian-whitesides.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
