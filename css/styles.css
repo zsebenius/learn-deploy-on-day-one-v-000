@@ -2887,6 +2887,14 @@ a:visited {
   background-image: url("../assets/img/adam-dorsky-cover.jpg");
 }
 
+#norihisa-mori-cover {
+  background-image:url("../assets/img/norihisa-mori-cover.jpg");
+}
+
+#norihisa-mori-card {
+  background-image:url("../assets/img/norihisa-mori.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
