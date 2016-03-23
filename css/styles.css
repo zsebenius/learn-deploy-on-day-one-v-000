@@ -162,6 +162,15 @@ a:visited {
   transform: scale(1.1);
 }
 
+
+#joel-bitar-cover {
+  background-image: url("../assets/img/joel-bitar-cover.jpg");
+}
+
+#joel-bitar-card {
+  background-image: url("../assets/img/joel-bitar.jpg");
+  }
+
 #josh-avina-cover {
   background-image: url("../assets/img/josh-avina-cover.jpg");
 }
