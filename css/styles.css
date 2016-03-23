@@ -162,12 +162,21 @@ a:visited {
   transform: scale(1.1);
 }
 
+
 #joel-bitar-cover {
   background-image: url("../assets/img/joel-bitar-cover.jpg");
 }
 
 #joel-bitar-card {
   background-image: url("../assets/img/joel-bitar.jpg");
+  }
+
+#josh-avina-cover {
+  background-image: url("../assets/img/josh-avina-cover.jpg");
+}
+
+#josh-avina-card {
+  background-image: url("../assets/img/josh-avina.jpg");
 }
 
 #yuriy-vinnicov-cover {
@@ -501,6 +510,14 @@ a:visited {
 
 #luciano-krebs-cover {
   background-image: url("../assets/img/luciano-krebs-cover.jpg");
+}
+
+#lush-sleutsky-card {
+  background-image: url("../assets/img/lush-sleutsky.jpg");
+}
+
+#lush-sleutsky-cover {
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
 }
 
 #james-novak-card {
@@ -2909,6 +2926,14 @@ a:visited {
 
 #toanh-tran-card {
   background-image: url("../assets/img/toanh-tran.jpg");
+}
+
+#christian-whitesides-cover {
+  background-image: url("../assets/img/christian-whitesides-cover.png");
+}
+
+#christian-whitesides-card {
+  background-image: url("../assets/img/christian-whitesides.jpg");
 }
 
 .view-profile-div {
