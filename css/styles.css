@@ -2968,6 +2968,14 @@ a:visited {
   background-image:url("../assets/img/norihisa-mori.png");
 }
 
+#vidul-parthasarathy-card {
+  background-image: url("../assets/img/vidul-parthasarathy.jpg");
+}
+
+#vidul-parthasarathy-cover {
+  background-image: url("../assets/img/vidul-parthasarathy-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
