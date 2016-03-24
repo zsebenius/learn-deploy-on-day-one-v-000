@@ -133,6 +133,93 @@ a:visited {
   height: 400px;
 }
 
+#dev-e-loper-cover {
+  background-image: url("../assets/img/dev-e-loper-cover.jpg");
+}
+
+#dev-e-loper-card {
+  background-image: url("../assets/img/dev-e-loper.jpg");
+}
+
+#matt-cassara-cover {
+  background-image: url("../assets/img/matt-cassara-cover.jpg");
+}
+
+#matt-cassara-card {
+  background-image: url("../assets/img/matt-cassara.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+
+}
+
+#matt-cassara-card:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+#joel-bitar-cover {
+  background-image: url("../assets/img/joel-bitar-cover.jpg");
+}
+
+#joel-bitar-card {
+  background-image: url("../assets/img/joel-bitar.jpg");
+  }
+
+#josh-avina-cover {
+  background-image: url("../assets/img/josh-avina-cover.jpg");
+}
+
+#josh-avina-card {
+  background-image: url("../assets/img/josh-avina.jpg");
+}
+
+#yuriy-vinnicov-cover {
+  background-image: url("../assets/img/yuriy-vinnicov-cover.jpg");
+}
+
+#yuriy-vinnicov-card {
+  background-image: url("../assets/img/yuriy-vinnicov.jpg");
+}
+
+#valentin-rosu-cover {
+  background-image: url("../assets/img/valentin-rosu-cover.jpg");
+}
+
+#valentin-rosu-card {
+  background-image: url("../assets/img/valentin-rosu.jpg");
+}
+
+#tj-hill-cover {
+  background-image: url("../assets/img/tj-hill-cover.png");
+}
+
+#tj-hill-card {
+  background-image: url("../assets/img/tj-hill.png");
+
+}
+
+#david-ward-cover {
+  background-image: url("../assets/img/david-ward-cover.jpg");
+}
+
+#david-ward-card {
+  background-image: url("../assets/img/david-ward.jpg");
+}
+
+#bradley-ashburn-cover {
+  background-image: url("../assets/img/bradley-ashburn-cover.jpg");
+}
+
+#bradley-ashburn-card {
+  background-image: url("../assets/img/bradley-ashburn.png");
+}
+
 #christina-delavar-cover {
   background-image: url("../assets/img/Christina-Delavar-cover.jpg");
 }
@@ -172,6 +259,7 @@ a:visited {
 #elizabeth-simonian-card {
   background-image: url("../assets/img/elizabeth-simonian.jpg");
 }
+
 #andy-touch-cover {
   background-image: url("../assets/img/andy-touch-cover.jpg");
 }
@@ -422,6 +510,14 @@ a:visited {
 
 #luciano-krebs-cover {
   background-image: url("../assets/img/luciano-krebs-cover.jpg");
+}
+
+#lush-sleutsky-card {
+  background-image: url("../assets/img/lush-sleutsky.jpg");
+}
+
+#lush-sleutsky-cover {
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
 }
 
 #james-novak-card {
@@ -854,6 +950,14 @@ a:visited {
 
 #ryan-johnson-card {
   background-image: url("../assets/img/ryan-johnson.jpg");
+}
+
+#ryan-mcneely-cover {
+  background-image: url("../assets/img/ryan-mcneely-cover.jpg");
+}
+
+#ryan-mcneely-card {
+    background-image: url("../assets/img/ryan-mcneely.jpg");
 }
 
 #tracy-tran-cover {
@@ -1306,6 +1410,14 @@ a:visited {
   background-image: url("../assets/img/mary-fossbender-cover.jpg");
 }
 
+#michael-casciato-cover {
+  background-image: url("../assets/img/michael-casciato-cover.jpg")''
+}
+
+#michael-casciato-card {
+  background-image: url("../assets/img/michael-casciato.jpg");
+}
+
 #lucas-moore-cover {
   background-image: url("../assets/img/lucas-moore-cover.jpg");
 }
@@ -1708,6 +1820,14 @@ a:visited {
   background-image: url("../assets/img/jason-southwell.jpg");
 }
 
+#amanita-s-card {
+  background-image: url("../assets/img/amanita-s.jpg");
+}
+
+#amanita-s-cover {
+  background-image: url("../assets/img/amanita-s-cover.jpg");
+}
+
 #jason-southwell-cover {
   background-image: url("../assets/img/jason-southwell-cover.jpg");
   background-position: center bottom;
@@ -2084,8 +2204,6 @@ a:visited {
 #john-anthony-card {
   background-image: url("../assets/img/john-anthony-profile.jpg");
 }
-
-
 
 #preet-dha-cover {
   background-image: url("../assets/img/preet-dha-cover.jpg");
@@ -2730,6 +2848,133 @@ a:visited {
   background-image: url("../assets/img/connor-marble-cover.jpg");
 }
 
+#michael-peimani-card {
+  background-image: url("../assets/img/michael-peimani.jpg");
+}
+
+#michael-peimani-cover {
+  background-image: url("../assets/img/michael-peimani-cover.jpg");
+}
+
+#rami-ah-card {
+  background-image: url("../assets/img/rami.jpg");
+}
+
+#rami-ah-cover {
+  background-image: url("../assets/img/rami-cover.jpg");
+}
+
+#tyler-smith-card {
+  background-image: url("../assets/img/tyler-smith.jpg");
+}
+
+#tyler-smith-cover {
+  background-image: url("../assets/img/tyler-smith-cover.jpg");
+}
+
+#justin-hamlin-card {
+  background-image: url("../assets/img/justin-hamlin.jpg");
+}
+
+#justin-hamlin-cover {
+  background-image: url("../assets/img/justin-hamlin-cover.jpg");
+}
+
+#morgan-osborne-card {
+  background-image: url("../assets/img/morgan-osborne.png");
+}
+
+#morgan-osborne-cover {
+  background-image: url("../assets/img/morgan-osborne-cover.jpg");
+}
+
+#lucya-koroleva-card {
+  background-image: url("../assets/img/lucya-koroleva.jpg");
+}
+
+#lucya-koroleva-cover {
+  background-image: url("../assets/img/lucya-koroleva-cover.jpg");
+}
+
+#phil-grossman-cover {
+  background-image:url("../assets/img/phil-grossman-cover.jpg");
+}
+
+#phil-grossman-card {
+  background-image:url("../assets/img/phil-grossman.jpg");
+}
+
+#michel-fuchs-card {
+  background-image: url("../assets/img/michel-fuchs.jpg");
+}
+
+#michel.fuchs-cover {
+  background-image: url("../assets/img/michel-fuchs-cover.jpg");
+}
+
+#adam-dorsky-card {
+  background-image: url("../assets/img/adam-dorsky.jpg");
+}
+
+#adam-dorsky-cover {
+  background-image: url("../assets/img/adam-dorsky-cover.jpg");
+}
+
+#andy-kim-card {
+  background-image: url("../assets/img/andy-kim.jpg");
+}
+
+#andy-kim-cover {
+  background-image: url("../assets/img/andy-kim-cover.jpg");
+}
+
+#toanh-tran-cover {
+  background-image: url("../assets/img/toanh-tran-cover.jpg");
+}
+
+#toanh-tran-card {
+  background-image: url("../assets/img/toanh-tran.jpg");
+}
+
+#christian-whitesides-cover {
+  background-image: url("../assets/img/christian-whitesides-cover.png");
+}
+
+#christian-whitesides-card {
+  background-image: url("../assets/img/christian-whitesides.jpg");
+}
+
+#vannak-chhay-cover {
+  background-image: url("../assets/img/vannak-chhay-cover.jpg");
+}
+
+#vannak-chhay-card {
+  background-image: url("../assets/img/vannak-chhay.jpg");
+}
+
+#karuna-sehgal-cover {
+  background-image: url("../assets/img/karuna-sehgal-cover.jpg");
+}
+
+#karuna-sehgal-card {
+  background-image: url("../assets/img/karuna-sehgal.jpg");
+}
+
+#norihisa-mori-cover {
+  background-image:url("../assets/img/norihisa-mori-cover.jpg");
+}
+
+#norihisa-mori-card {
+  background-image:url("../assets/img/norihisa-mori.png");
+}
+
+#vidul-parthasarathy-card {
+  background-image: url("../assets/img/vidul-parthasarathy.jpg");
+}
+
+#vidul-parthasarathy-cover {
+  background-image: url("../assets/img/vidul-parthasarathy-cover.jpg");
+}
 
 .view-profile-div {
   position: absolute;
