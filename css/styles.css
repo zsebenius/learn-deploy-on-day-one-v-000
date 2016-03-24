@@ -162,6 +162,13 @@ a:visited {
   transform: scale(1.1);
 }
 
+#william-mena-cover {
+  background-image: url("../assets/img/william-mena-cover.jpg");
+}
+
+#william-mena-card {
+  background-image: url("../assets/img/william-mena.jpg");
+}
 
 #joel-bitar-cover {
   background-image: url("../assets/img/joel-bitar-cover.jpg");
@@ -2974,6 +2981,14 @@ a:visited {
 
 #vidul-parthasarathy-cover {
   background-image: url("../assets/img/vidul-parthasarathy-cover.jpg");
+}
+
+#branden-miller-card {
+  background-image: url("../assets/img/branden-miller.jpg");
+}
+
+#branden-miller-cover {
+  background-image: url("../assets/img/branden-miller-cover.jpg");
 }
 
 .view-profile-div {
