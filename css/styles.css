@@ -162,6 +162,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#ellen-miller-cover {
+  background-image: url("../assets/img/ellen-miller-cover.jpg");
+}
+
+#ellen-miller-card {
+  background-image: url("../assets/img/ellen-miller.jpg");
+}
+
 #william-mena-cover {
   background-image: url("../assets/img/william-mena-cover.jpg");
 }
