@@ -2999,6 +2999,15 @@ a:visited {
   background-image: url("../assets/img/branden-miller-cover.jpg");
 }
 
+#kevin-romoser-card {
+  background-image: url("../assets/img/kevin-romoser.jpg");
+}
+
+#kevin-romoser-cover {
+  background-image: url("../assets/img/kevin-romoser-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
