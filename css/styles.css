@@ -532,7 +532,7 @@ a:visited {
 }
 
 #lush-sleutsky-cover {
-  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");
 }
 
 #james-novak-card {
@@ -2997,6 +2997,14 @@ a:visited {
 
 #branden-miller-cover {
   background-image: url("../assets/img/branden-miller-cover.jpg");
+}
+
+#dax-blemberg-card {
+  background-image: url("../assets/img/dax-blemberg.jpg");
+}
+
+#dax-blemberg-cover {
+  background-image: url("../assets/img/dax-blemberg-cover.jpg");
 }
 
 .view-profile-div {
