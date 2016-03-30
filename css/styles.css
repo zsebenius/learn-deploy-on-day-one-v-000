@@ -162,6 +162,37 @@ a:visited {
   transform: scale(1.1);
 }
 
+#ishmael-khalid-cover {
+  background-image: url("../assets/img/ishmael-khalid-cover.jpg");
+  border: 3px #63bedc solid;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+#ishmael-khalid-cover:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+#ishmael-khalid-card {
+  background-image: url("../assets/img/ishmael-khalid.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+#ishmael-khalid-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 #ellen-miller-cover {
   background-image: url("../assets/img/ellen-miller-cover.jpg");
 }
