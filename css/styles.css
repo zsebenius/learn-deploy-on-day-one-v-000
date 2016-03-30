@@ -532,7 +532,7 @@ a:visited {
 }
 
 #lush-sleutsky-cover {
-  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");
 }
 
 #james-novak-card {
@@ -2998,6 +2998,16 @@ a:visited {
 #branden-miller-cover {
   background-image: url("../assets/img/branden-miller-cover.jpg");
 }
+
+#ludmilla-aires-cover {
+  background-image: url("../assets/img/ludmilla-aires-cover.jpg");
+}
+
+#ludmilla-aires-card {
+  background-image: url("../assets/img/ludmilla-aires.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;
