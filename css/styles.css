@@ -3015,6 +3015,15 @@ a:visited {
   background-image: url("../assets/img/kevin-romoser-cover.jpg");
 }
 
+#dax-blemberg-card {
+  background-image: url("../assets/img/dax-blemberg.jpg");
+}
+
+#dax-blemberg-cover {
+  background-image: url("../assets/img/dax-blemberg-cover.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;
