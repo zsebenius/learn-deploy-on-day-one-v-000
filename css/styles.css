@@ -162,6 +162,22 @@ a:visited {
   transform: scale(1.1);
 }
 
+#mo-armstrong-cover {
+  background-image: url("../assets/img/mo-armstrong-cover.jpg");
+}
+
+#mo-armstrong-card {
+  background-image: url("../assets/img/mo-armstrong.jpg");
+}
+
+#ellen-miller-cover {
+  background-image: url("../assets/img/ellen-miller-cover.jpg");
+}
+
+#ellen-miller-card {
+  background-image: url("../assets/img/ellen-miller.jpg");
+}
+
 #william-mena-cover {
   background-image: url("../assets/img/william-mena-cover.jpg");
 }
@@ -524,7 +540,7 @@ a:visited {
 }
 
 #lush-sleutsky-cover {
-  background-image: url("../assets/img/lush-sleutsky-cover.jpg");  
+  background-image: url("../assets/img/lush-sleutsky-cover.jpg");
 }
 
 #james-novak-card {
@@ -2990,6 +3006,32 @@ a:visited {
 #branden-miller-cover {
   background-image: url("../assets/img/branden-miller-cover.jpg");
 }
+
+#kevin-romoser-card {
+  background-image: url("../assets/img/kevin-romoser.jpg");
+}
+
+#kevin-romoser-cover {
+  background-image: url("../assets/img/kevin-romoser-cover.jpg");
+}
+
+#dax-blemberg-card {
+  background-image: url("../assets/img/dax-blemberg.jpg");
+}
+
+#dax-blemberg-cover {
+  background-image: url("../assets/img/dax-blemberg-cover.jpg");
+}
+
+#ludmilla-aires-cover {
+  background-image: url("../assets/img/ludmilla-aires-cover.jpg");
+}
+
+#ludmilla-aires-card {
+  background-image: url("../assets/img/ludmilla-aires.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;

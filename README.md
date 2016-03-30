@@ -1,6 +1,6 @@
 # Your first deployment
 
-There is no better way to feel like a developer than by actually becoming one, which you do by shipping code. With everything you've learned thus far, we think you're ready for the challenge. In this lab, you'll make a change to the Learn website: you will be asked to add your information to our public student directory (visible to the world at http://students.learn.co) and put in motion the sequence of events to have your change go live in production. 
+There is no better way to feel like a developer than by actually becoming one, which you do by shipping code. With everything you've learned thus far, we think you're ready for the challenge. In this lab, you'll make a change to the Learn website: you will be asked to add your information to our public student directory (visible to the world at http://students.learn.co) and put in motion the sequence of events to have your change go live in production.
 
 We have already created a template, but you need to use your Git, HTML and CSS skills to submit an updated version of the site with your information. Here we go!
 
@@ -59,7 +59,7 @@ The first thing you'll need to do is add your image assets.
 
 #### Add your Profile page
 
-  1. Copy another students `student-name.html` file and rename it to your name. 
+  1. Copy another students `student-name.html` file and rename it to your name.
   2. Double-check that you added your cover and profile photo to the `img` directory
   3. Open up `your-name.html` and modify it with your information (links, bio etc).
      * Adding the images is a bit tricky! Take a look at the `css/styles.css` or use inspect element for an idea of where those images come from.
@@ -72,10 +72,10 @@ The first thing you'll need to do is add your image assets.
 
 #### Taking stock
 
-Now that you have everything locally, let's take stock of what we have. Take a look at `index.html` and `profile.html` in the browser. To do this: 
+Now that you have everything locally, let's take stock of what we have. Take a look at `index.html` and `profile.html` in the browser. To do this:
 
-* If you're working on a Mac, you can just find the file locally using Finder and click to view the webpage in Chrome. 
-* If you're working on Nitrous, it's a bit more involved: first push your changes to your GitHub fork, then download your GitHub repo to your computer as a zip file, unzip it and open up the HTML files locally. 
+* If you're working on a Mac, you can just find the file locally using Finder and click to view the webpage in Chrome.
+* If you're working on Nitrous, it's a bit more involved: first push your changes to your GitHub fork, then download your GitHub repo to your computer as a zip file, unzip it and open up the HTML files locally.
 
 You may need to cycle a few times until everything looks good. Once you're happy with it, you're ready to submit.
 
