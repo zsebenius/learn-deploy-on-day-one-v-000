@@ -2551,7 +2551,13 @@ a:visited {
 #ann-lee-card {
   background-image: url("../assets/img/ann-lee.jpg");
 }
+#michael-randell-cover {
+  background-image: url("../assets/img/michael-randell-cover.jpg");
+}
 
+#michael-randell-card {
+  background-image: url("../assets/img/michael-randell.jpg");
+}
 #zach-newburgh-cover {
   background-image: url("../assets/img/zach-newburgh-cover.jpg");
 }
