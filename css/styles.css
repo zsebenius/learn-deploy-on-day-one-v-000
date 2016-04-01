@@ -162,6 +162,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#luke-grecki-cover {
+  background-image: url("../assets/img/luke-grecki-cover.jpg");
+}
+
+#luke-grecki-card {
+  background-image: url("../assets/img/luke-grecki.jpg");
+}
+
 #ellen-miller-cover {
   background-image: url("../assets/img/ellen-miller-cover.jpg");
 }
