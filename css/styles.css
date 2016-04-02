@@ -141,6 +141,14 @@ a:visited {
   background-image: url("../assets/img/dev-e-loper.jpg");
 }
 
+#duncan-mclachlan-cover {
+  background-image: url("../assets/img/duncan-mclachlan-cover.jpg");
+}
+
+#duncan-mclachlan-card {
+  background-image: url("../assets/img/duncan-mclachlan.jpg");
+}
+
 #matt-cassara-cover {
   background-image: url("../assets/img/matt-cassara-cover.jpg");
 }
