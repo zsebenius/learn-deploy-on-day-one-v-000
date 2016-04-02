@@ -3031,7 +3031,14 @@ a:visited {
   background-image: url("../assets/img/ludmilla-aires.jpg");
 }
 
+#jonathan-stone-cover {
+  background-image: url("../assets/img/jonathan-stone-cover.png");
+}
 
+#jonathan-stone-card {
+  background-image: url("../assets/img/jonathan-stone.png");
+
+}
 
 .view-profile-div {
   position: absolute;
