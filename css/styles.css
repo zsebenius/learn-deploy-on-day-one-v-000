@@ -170,6 +170,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#xiaoling-zhu-cover {
+  background-image: url("../assets/img/xiaoling-zhu-cover.jpg");
+}
+
+#xiaoling-zhu-card {
+  background-image: url("../assets/img/xiaoling-zhu.jpg");
+}
+
 #mo-armstrong-cover {
   background-image: url("../assets/img/mo-armstrong-cover.jpg");
 }
