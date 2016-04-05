@@ -3095,6 +3095,14 @@ a:visited {
   background-image: url("../assets/img/avinash-prasad-cover.jpg");
 }
 
+#robert-carrier-cover {
+  background-image: url("../assets/img/robert-carrier-cover.jpg");
+}
+
+#robert-carrier-card{
+  background-image: url("../assets/img/robert-carrier.png");
+}
+
 
 
 .view-profile-div {
