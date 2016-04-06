@@ -141,6 +141,14 @@ a:visited {
   background-image: url("../assets/img/dev-e-loper.jpg");
 }
 
+#duncan-mclachlan-cover {
+  background-image: url("../assets/img/duncan-mclachlan-cover.jpg");
+}
+
+#duncan-mclachlan-card {
+  background-image: url("../assets/img/duncan-mclachlan.jpg");
+}
+
 #matt-cassara-cover {
   background-image: url("../assets/img/matt-cassara-cover.jpg");
 }
@@ -162,12 +170,62 @@ a:visited {
   transform: scale(1.1);
 }
 
+#xiaoling-zhu-cover {
+  background-image: url("../assets/img/xiaoling-zhu-cover.jpg");
+}
+
+#xiaoling-zhu-card {
+  background-image: url("../assets/img/xiaoling-zhu.jpg");
+}
+
 #mo-armstrong-cover {
   background-image: url("../assets/img/mo-armstrong-cover.jpg");
 }
 
 #mo-armstrong-card {
   background-image: url("../assets/img/mo-armstrong.jpg");
+}
+
+#ishmael-khalid-cover {
+  background-image: url("../assets/img/ishmael-khalid-cover.jpg");
+  border: 3px #63bedc solid;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#ishmael-khalid-cover:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#ishmael-khalid-card {
+  background-image: url("../assets/img/ishmael-khalid.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#ishmael-khalid-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#luke-grecki-cover {
+  background-image: url("../assets/img/luke-grecki-cover.jpg");
+}
+
+#luke-grecki-card {
+  background-image: url("../assets/img/luke-grecki.jpg");
 }
 
 #ellen-miller-cover {
@@ -200,6 +258,14 @@ a:visited {
 
 #josh-avina-card {
   background-image: url("../assets/img/josh-avina.jpg");
+}
+
+#dereje-gemechu-cover {
+  background-image: url("../assets/img/dereje-gemechu-cover.jpg");
+}
+
+#dereje-gemechu-card {
+  background-image: url("../assets/img/dereje-gemechu.jpg");
 }
 
 #yuriy-vinnicov-cover {
@@ -2551,7 +2617,13 @@ a:visited {
 #ann-lee-card {
   background-image: url("../assets/img/ann-lee.jpg");
 }
+#michael-randell-cover {
+  background-image: url("../assets/img/michael-randell-cover.jpg");
+}
 
+#michael-randell-card {
+  background-image: url("../assets/img/michael-randell.jpg");
+}
 #zach-newburgh-cover {
   background-image: url("../assets/img/zach-newburgh-cover.jpg");
 }
@@ -3031,6 +3103,45 @@ a:visited {
   background-image: url("../assets/img/ludmilla-aires.jpg");
 }
 
+#kailee-gray-cover {
+  background-image: url("../assets/img/kailee-gray-cover.jpg");
+}
+
+#kailee-gray-card {
+  background-image: url("../assets/img/kailee-gray.jpg");
+}
+
+#avinash-prasad-card {
+  background-image: url("../assets/img/avinash-prasad.jpg");
+}
+
+#avinash-prasad-cover {
+  background-image: url("../assets/img/avinash-prasad-cover.jpg");
+}
+
+#robert-carrier-cover {
+  background-image: url("../assets/img/robert-carrier-cover.jpg");
+}
+
+#robert-carrier-card{
+  background-image: url("../assets/img/robert-carrier.png");
+}
+
+#daniel-riley-cover {
+  background-image: url("../assets/img/daniel-riley-cover.png");
+}
+
+#daniel-riley-card {
+  background-image: url("../assets/img/daniel-riley.png");
+}
+
+#saul-ocampo-cover {
+  background-image: url("../assets/img/Saul-Ocampo-Cover.jpg");
+}
+
+#saul-ocampo-card {
+  background-image: url("../assets/img/Saul-Ocampo.jpg");
+}
 
 
 .view-profile-div {
