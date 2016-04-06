@@ -23,7 +23,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
-}
+} 
 
 a {
   color: #fff;
@@ -2999,6 +2999,14 @@ a:visited {
   background-image: url("../assets/img/branden-miller-cover.jpg");
 }
 
+#scott-savage-card {
+  background-image: url("../assets/img/scott-savage.jpg");
+}
+
+#scott-savage-cover {
+  background-image: url("../assets/img/scott-savage-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -3173,6 +3181,13 @@ a:visited {
 
 .education-content div:nth-child(4),
 .experience-content div:nth-child(4) {
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 1px dotted #85929d;
+}
+
+.education-content div:nth-child(5),
+.experience-content div:nth-child(5) {
   padding-top: 15px;
   margin-top: 15px;
   border-top: 1px dotted #85929d;
