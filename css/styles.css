@@ -3135,6 +3135,13 @@ a:visited {
   background-image: url("../assets/img/daniel-riley.png");
 }
 
+#saul-ocampo-cover {
+  background-image: url("../assets/img/Saul-Ocampo-Cover.jpg");
+}
+
+#saul-ocampo-card {
+  background-image: url("../assets/img/Saul-Ocampo.jpg");
+}
 
 
 .view-profile-div {
