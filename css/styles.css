@@ -3143,6 +3143,14 @@ a:visited {
   background-image: url("../assets/img/Saul-Ocampo.jpg");
 }
 
+#ginne-c-cover {
+  background-image: url("../assets/img/ginne-c-cover.jpg");
+}
+
+#ginne-c-card {
+  background-image: url("../assets/img/ginne-c.png");
+}
+
 
 .view-profile-div {
   position: absolute;
