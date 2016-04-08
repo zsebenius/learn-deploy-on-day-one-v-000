@@ -141,26 +141,6 @@ a:visited {
   background-image: url("../assets/img/dev-e-loper.jpg");
 }
 
-#jonathan-stone-cover {
-  background-image: url("../assets/img/jonathan-stone-cover.jpg");
-}
-
-#jonathan-stone-card {
-  background-image: url("../assets/img/jonathan-stone.jpg");
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
-}
-
-#jonathan-stone-card:hover {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
-
 #matt-cassara-cover {
   background-image: url("../assets/img/matt-cassara-cover.jpg");
 }
@@ -3048,6 +3028,26 @@ a:visited {
 
 #ludmilla-aires-card {
   background-image: url("../assets/img/ludmilla-aires.jpg");
+}
+
+#jonathan-stone-cover {
+  background-image: url("../assets/img/jonathan-stone-cover.jpg");
+}
+
+#jonathan-stone-card {
+  background-image: url("../assets/img/jonathan-stone.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#jonathan-stone-card:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .view-profile-div {
