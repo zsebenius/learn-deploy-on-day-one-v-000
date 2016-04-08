@@ -159,7 +159,6 @@ a:visited {
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
-
 }
 
 #matt-cassara-card:hover {
@@ -3143,6 +3142,25 @@ a:visited {
   background-image: url("../assets/img/Saul-Ocampo.jpg");
 }
 
+#jonathan-stone-cover {
+  background-image: url("../assets/img/jonathan-stone-cover.jpg");
+}
+
+#jonathan-stone-card {
+  background-image: url("../assets/img/jonathan-stone.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#jonathan-stone-card:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
 
 .view-profile-div {
   position: absolute;
