@@ -3162,6 +3162,13 @@ a:visited {
   transform: scale(1.1);
 }
 
+#brian-emory-cover {
+  background-image: url("../assets/img/brian-emory-cover.jpg");
+}
+#brian-emory-card {
+  background-image: url("../assets/img/brian-emory.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
