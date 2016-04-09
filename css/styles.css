@@ -1499,7 +1499,7 @@ a:visited {
 }
 
 #michael-casciato-cover {
-  background-image: url("../assets/img/michael-casciato-cover.jpg")''
+  background-image: url("../assets/img/michael-casciato-cover.jpg");
 }
 
 #michael-casciato-card {
@@ -3391,6 +3391,7 @@ a:visited {
   }
   .roster-cards-container {
     width: 650px;
+
   }
   .student-card {
     display: inline-block;
