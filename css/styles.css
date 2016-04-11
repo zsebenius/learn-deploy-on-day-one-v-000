@@ -3186,6 +3186,14 @@ a:visited {
   background-image: url("../assets/img/ginne-c.png");
 }
 
+#sameera-bachoti-card {
+  background-image: url("../assets/img/sameera-bachoti.jpg");
+}
+
+#sameera-bachoti-cover {
+  background-image: url("../assets/img/sameera-bachoti-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
