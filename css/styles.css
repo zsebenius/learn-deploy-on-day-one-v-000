@@ -3226,6 +3226,14 @@ a:visited {
   background-image: url("../assets/img/j-hall-cover.png");
 }
 
+#james-rogers-cover {
+  background-image: url("../assets/img/james-rogers-cover.jpg");
+}
+
+#james-rogers-card {
+  background-image: url("../assets/img/james-rogers.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
