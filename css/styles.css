@@ -1499,7 +1499,7 @@ a:visited {
 }
 
 #michael-casciato-cover {
-  background-image: url("../assets/img/michael-casciato-cover.jpg")''
+  background-image: url("../assets/img/michael-casciato-cover.jpg");
 }
 
 #michael-casciato-card {
@@ -3194,6 +3194,14 @@ a:visited {
   background-image: url("../assets/img/sameera-bachoti-cover.jpg");
 }
 
+#brian-emory-cover {
+  background-image: url("../assets/img/brian-emory-cover.jpg");
+}
+
+#brian-emory-card {
+  background-image: url("../assets/img/brian-emory.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -3416,6 +3424,7 @@ a:visited {
   }
   .roster-cards-container {
     width: 650px;
+
   }
   .student-card {
     display: inline-block;
