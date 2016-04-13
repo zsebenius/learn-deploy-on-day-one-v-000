@@ -3218,6 +3218,14 @@ a:visited {
   background-image: url("../assets/img/hilary-lyttle.jpg");
 }
 
+#j-hall-card {
+  background-image: url("../assets/img/j-hall.jpg");
+}
+
+#j-hall-cover {
+  background-image: url("../assets/img/j-hall-cover.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
