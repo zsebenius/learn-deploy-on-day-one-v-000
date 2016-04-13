@@ -3202,6 +3202,14 @@ a:visited {
   background-image: url("../assets/img/brian-emory.jpg");
 }
 
+#hilary-lyttle-cover {
+  background-image: url("../assets/img/hilary-lyttle-cover.jpg");
+}
+
+#hilary-lyttle-card {
+  background-image: url("../assets/img/hilary-lyttle.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
