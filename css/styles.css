@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#callie-miller-cover {
+  background-image: url("../assets/img/callie-miller-cover.jpg");
+}
+
+#callie-miller-card {
+  background-image: url("../assets/img/callie-miller.jpg");
+}
+
 #dev-e-loper-cover {
   background-image: url("../assets/img/dev-e-loper-cover.jpg");
 }
