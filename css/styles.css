@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#john-espinosa-cover {
+  background-image: url("../assets/img/john-espinosa-cover.jpg");
+}
+
+#john-espinosa-card {
+  background-image: url("../assets/img/john-espinosa.jpg");
+}
 
 #nathaniel-miller-cover {
   background-image: url("../assets/img/nathaniel-miller-cover.jpg");
