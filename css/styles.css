@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#nathaniel-miller-cover {
+  background-image: url("../assets/img/nathaniel-miller-cover.jpg");
+}
+
+#nathaniel-miller-card {
+  background-image: url("../assets/img/nathaniel-miller.png");
+}
+
 #callie-miller-cover {
   background-image: url("../assets/img/callie-miller-cover.jpg");
 }
