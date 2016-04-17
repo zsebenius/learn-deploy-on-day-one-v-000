@@ -132,6 +132,16 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#robert-koeze-cover {
+  background-image: url("../assets/img/robert-koeze-cover.jpg");
+}
+
+#robert-koeze-card {
+  background-image: url("../assets/img/robert-koeze.jpg");
+}
+
+}
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
