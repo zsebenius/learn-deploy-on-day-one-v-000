@@ -3255,6 +3255,13 @@ a:visited {
   background-image: url("../assets/img/james-rogers.jpg");
 }
 
+#nicholas-daniele-cover {
+  background-image: url("../assets/img/nicholas-daniele-cover.jpg");
+}
+
+#nicholas-daniele-card {
+  background-image: url("../assets/img/nicholas-daniele.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
