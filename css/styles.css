@@ -135,7 +135,12 @@ a:visited {
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
-
+#ian-devivi-cover {
+  background-image: url("../assets/img/ian-devivi-cover.jpg")
+}
+#ian-devivi-card {
+  background-image: url("../assets/img/ian-devivi-profile.jpg")
+}
 #john-espinosa-card {
   background-image: url("../assets/img/john-espinosa.jpg");
 }
