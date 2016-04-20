@@ -154,6 +154,13 @@ a:visited {
   background-image: url("../assets/img/john-espinosa.jpg");
 }
 
+#ivan-pilot-cover {
+  background-image: url("../assets/img/ivan-pilot-cover.jpg");
+}
+
+#ivan-pilot-card {
+  background-image: url("../assets/img/ivan-pilot.jpg");
+}
 #nathaniel-miller-cover {
   background-image: url("../assets/img/nathaniel-miller-cover.jpg");
 }
