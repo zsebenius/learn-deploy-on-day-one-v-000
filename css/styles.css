@@ -153,6 +153,14 @@ a:visited {
   background-image: url("../assets/img/nathaniel-miller.png");
 }
 
+#daniel-valmas-cover { 
+  background-image: url("../assets/img/daniel-valmas-cover.jpg");
+}
+
+#daniel-valmas-card { 
+  background-image: url("../assets/img/daniel-valmas.jpg");
+}
+
 #callie-miller-cover {
   background-image: url("../assets/img/callie-miller-cover.jpg");
 }
