@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#Dolores-Mendez-cover {
+  background-image: url("../assets/img/Dolores-Mendez-cover.jpg");
+}
+
+#Dolores-Mendez-card {
+  background-image: url("../assets/img/Dolores-Mendez.jpg");
+}
+
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
