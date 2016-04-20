@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#sam-ringleman-cover {
+  background-image: url("../assets/img/sam-ringleman-cover.jpg");
+}
+
+#sam-ringleman-card {
+  background-image: url("../assets/img/sam-ringleman.jpg");
+}
+
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
