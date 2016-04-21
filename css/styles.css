@@ -315,6 +315,14 @@ a:visited {
   background-image: url("../assets/img/josh-avina-cover.jpg");
 }
 
+#daniel-vachalek-cover {
+  background-image: url("../assets/img/daniel-vachalek-cover.jpg");
+}
+
+#daniel-vachalek-card {
+  background-image: url("../assets/img/daniel-vachalek.jpg");
+}
+
 #josh-avina-card {
   background-image: url("../assets/img/josh-avina.jpg");
 }
