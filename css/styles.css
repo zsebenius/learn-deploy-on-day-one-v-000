@@ -149,15 +149,27 @@ a:visited {
   background-image: url("../assets/img/Dolores-Mendez.jpg");
 }
 
+=======
+#robert-koeze-cover {
+  background-image: url("../assets/img/robert-koeze-cover.jpg");
+}
+
+#robert-koeze-card {
+  background-image: url("../assets/img/robert-koeze.jpg");
+}
+
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
+
 #ian-devivi-cover {
   background-image: url("../assets/img/ian-devivi-cover.jpg")
 }
+
 #ian-devivi-card {
   background-image: url("../assets/img/ian-devivi-profile.jpg")
 }
+
 #john-espinosa-card {
   background-image: url("../assets/img/john-espinosa.jpg");
 }
