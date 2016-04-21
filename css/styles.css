@@ -3319,6 +3319,15 @@ a:visited {
 #nicholas-daniele-card {
   background-image: url("../assets/img/nicholas-daniele.jpg");
 }
+=======
+#neil-ryan-card {
+  background-image: url("../assets/img/neil-ryan.jpg");
+}
+
+#neil-ryan-cover {
+  background-image: url("../assets/img/neil-ryan-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
