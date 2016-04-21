@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+
+#angel-barranco-cover {
+  background-image: url("../assets/img/angel-barranco-cover.jpg");
+}
+
+#angel-barranco-card {
+  background-image: url("../assets/img/angel-barranco.jpg");
+}
+
 #sam-ringleman-cover {
   background-image: url("../assets/img/sam-ringleman-cover.jpg");
 }
