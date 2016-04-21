@@ -3319,6 +3319,15 @@ a:visited {
 #nicholas-daniele-card {
   background-image: url("../assets/img/nicholas-daniele.jpg");
 }
+
+#ed-glazenski-cover {
+  background-image: url("../assets/img/ed-glazenski-cover.jpeg");
+}
+
+#ed-glazenski-card {
+  background-image: url("../assets/img/ed-glazenski.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
