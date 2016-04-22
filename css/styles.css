@@ -3328,13 +3328,21 @@ a:visited {
 #nicholas-daniele-card {
   background-image: url("../assets/img/nicholas-daniele.jpg");
 }
-=======
+
 #neil-ryan-card {
   background-image: url("../assets/img/neil-ryan.jpg");
 }
 
 #neil-ryan-cover {
   background-image: url("../assets/img/neil-ryan-cover.jpg");
+}
+
+#ed-glazenski-cover {
+  background-image: url("../assets/img/ed-glazenski-cover.jpeg");
+}
+
+#ed-glazenski-card {
+  background-image: url("../assets/img/ed-glazenski.jpg");
 }
 
 .view-profile-div {
