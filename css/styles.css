@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#mike-delehant-cover {
+  background-image: url("../assets/img/mike-delehant-cover.jpg");
+}
+
+#mike-delehant-card {
+  background-image: url("../assets/img/mike-delehant.jpg");
+}
+
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
