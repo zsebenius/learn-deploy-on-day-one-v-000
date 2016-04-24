@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#daniel-ting-cover {
+  background-image: url("../assets/img/daniel-ting-cover.jpg");
+}
+
+#daniel-ting-card {
+  background-image: url("../assets/img/daniel-ting.jpg");
+}
+
 #john-espinosa-cover {
   background-image: url("../assets/img/john-espinosa-cover.jpg");
 }
