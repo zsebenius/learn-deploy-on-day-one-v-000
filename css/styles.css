@@ -213,11 +213,11 @@ a:visited {
   background-image: url("../assets/img/nathaniel-miller.png");
 }
 
-#daniel-valmas-cover { 
+#daniel-valmas-cover {
   background-image: url("../assets/img/daniel-valmas-cover.jpg");
 }
 
-#daniel-valmas-card { 
+#daniel-valmas-card {
   background-image: url("../assets/img/daniel-valmas.jpg");
 }
 
@@ -3367,6 +3367,14 @@ a:visited {
 
 #ed-glazenski-card {
   background-image: url("../assets/img/ed-glazenski.jpg");
+}
+
+#scott-savage-card {
+  background-image: url("../assets/img/scott-savage.jpg");
+}
+
+#scott-savage-cover {
+  background-image: url("../assets/img/scott-savage-cover.jpg");
 }
 
 .view-profile-div {
