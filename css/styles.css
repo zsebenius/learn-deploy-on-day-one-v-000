@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+
+#kaileigh-mccrea-cover {
+  background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
+}
+
+#kaileigh-mccrea-card {
+  background-image: url("../assets/img/kaileigh-mccrea.jpg");
+}
+
 #angel-barranco-cover {
   background-image: url("../assets/img/angel-barranco-cover.jpg");
 }
