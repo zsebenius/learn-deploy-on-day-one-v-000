@@ -198,11 +198,11 @@ a:visited {
   background-image: url("../assets/img/nathaniel-miller.png");
 }
 
-#daniel-valmas-cover { 
+#daniel-valmas-cover {
   background-image: url("../assets/img/daniel-valmas-cover.jpg");
 }
 
-#daniel-valmas-card { 
+#daniel-valmas-card {
   background-image: url("../assets/img/daniel-valmas.jpg");
 }
 
@@ -3344,6 +3344,16 @@ a:visited {
 #ed-glazenski-card {
   background-image: url("../assets/img/ed-glazenski.jpg");
 }
+
+#caleb-faught-cover {
+  background-image: url("../assets/img/caleb-faught-cover.jpg");
+}
+
+#caleb-faught-card {
+  background-image: url("../assets/img/caleb-faught.jpg");
+}
+
+
 
 .view-profile-div {
   position: absolute;
