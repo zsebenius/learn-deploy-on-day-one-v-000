@@ -158,7 +158,6 @@ a:visited {
   background-image: url("../assets/img/Dolores-Mendez.jpg");
 }
 
-=======
 #robert-koeze-cover {
   background-image: url("../assets/img/robert-koeze-cover.jpg");
 }
@@ -3343,6 +3342,14 @@ a:visited {
 
 #ed-glazenski-card {
   background-image: url("../assets/img/ed-glazenski.jpg");
+}
+
+#ernie-jamison-cover {
+  background-image: url("../assets/img/ernie-jamison-cover.jpg");
+}
+
+#ernie-jamison-card {
+  background-image: url("../assets/img/ernie-jamison.jpg");
 }
 
 .view-profile-div {
