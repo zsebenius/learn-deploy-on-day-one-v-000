@@ -3384,6 +3384,14 @@ a:visited {
   background-image: url("../assets/img/scott-savage-cover.jpg");
 }
 
+#david-elden-card {
+  background-image: url("../assets/img/david-elden.jpg");
+}
+
+#david-elden-cover {
+  background-image: url("../assets/img/david-elden-cover.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
