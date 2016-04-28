@@ -133,7 +133,6 @@ a:visited {
   height: 400px;
 }
 
-
 #kaileigh-mccrea-cover {
   background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
 }
@@ -180,6 +179,14 @@ a:visited {
 
 #mike-delehant-card {
   background-image: url("../assets/img/mike-delehant.jpg");
+}
+
+#daniel-ting-cover {
+  background-image: url("../assets/img/daniel-ting-cover.jpg");
+}
+
+#daniel-ting-card {
+  background-image: url("../assets/img/daniel-ting.jpg");
 }
 
 #john-espinosa-cover {
