@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+#nana-adukrow-cover {
+  background-image: url("..assets/img/nana-adukrow-cover.jpg");
+
+}
+
+#nana-adukrow-card {
+  background-image: url("../assets/img/nana-adukrow.jpg");
+
+}
 #kaileigh-mccrea-cover {
   background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
 }
