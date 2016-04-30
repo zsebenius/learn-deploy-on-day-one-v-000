@@ -133,6 +133,16 @@ a:visited {
   height: 400px;
 }
 
+#jennifer-anton-cover {
+  background-image: url("../assets/img/jennifer-anton-cover.jpg");
+}
+
+#jennifer-anton-card {
+  background-image: url("../assets/img/jennifer-anton.jpg");
+}
+
+
+
 #kaileigh-mccrea-cover {
   background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
 }
