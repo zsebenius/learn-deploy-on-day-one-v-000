@@ -3400,6 +3400,22 @@ a:visited {
   background-image: url("../assets/img/caleb-faught.jpg");
 }
 
+#bryan-thompson-cover {
+  background-image: url("../assets/img/bryan-thompson-cover.jpg");
+}
+
+#bryan-thompson-card {
+  background-image: url("../assets/img/bryan-thompson.jpg");
+}
+
+#bryan-thompson-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
 
 .view-profile-div {
   position: absolute;
