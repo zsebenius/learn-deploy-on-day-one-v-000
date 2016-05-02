@@ -3417,6 +3417,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#ernie-jamison-cover {
+  background-image: url("../assets/img/ernie-jamison-cover.jpeg");
+}
+
+#ernie-jamison-card {
+  background-image: url("../assets/img/ernie-jamison.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
