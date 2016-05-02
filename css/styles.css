@@ -3392,6 +3392,15 @@ a:visited {
   background-image: url("../assets/img/david-elden-cover.jpg");
 }
 
+#caleb-faught-cover {
+  background-image: url("../assets/img/caleb-faught-cover.jpg");
+}
+
+#caleb-faught-card {
+  background-image: url("../assets/img/caleb-faught.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
