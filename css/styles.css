@@ -3434,6 +3434,14 @@ a:visited {
   background-image: url("../assets/img/ernie-jamison.jpg");
 }
 
+#katherine-thai-cover {
+  background-image: url("../assets/img/katherine-thai-cover.jpg");
+}
+
+#katherine-thai-card {
+  background-image: url("../assets/img/katherine-thai.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
