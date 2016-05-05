@@ -3427,6 +3427,7 @@ a:visited {
   background-image: url("../assets/img/bryan-thompson.jpg");
 }
 
+
 #bryan-thompson-card:hover {
   border: 3px #63bedc solid;
   -webkit-transform: scale(1.1);
@@ -3458,6 +3459,14 @@ a:visited {
 
 #katherine-thai-card {
   background-image: url("../assets/img/katherine-thai.jpg");
+}
+
+#anita-ford-cover {
+  background-image: url("../assets/img/anita-ford-cover.jpg");
+}
+
+#anita-ford-card {
+  background-image: url("../assets/img/anita-ford.jpg");
 }
 
 .view-profile-div {
