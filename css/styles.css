@@ -3444,6 +3444,14 @@ a:visited {
   background-image: url("../assets/img/ernie-jamison.jpg");
 }
 
+#steve-frost-cover {
+  background-image: url("../assets/img/steve-frost-cover.jpg");
+}
+
+#steve-frost-card {
+  background-image: url("../assets/img/steve-frost.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
