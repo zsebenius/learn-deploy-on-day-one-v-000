@@ -29,8 +29,6 @@ The structure of this project looks something like this:
 ├── css
 │   ├── css style sheets
 ├── assets
-|   |__ img
-|   |   ├── lots of images
 |   |__ fonts
 |   |   ├── some fonts
 ├── index.html
@@ -53,16 +51,38 @@ Fork and clone this lab.
 
 The first thing you'll need to do is add your image assets.
 
-  * Add two pictures to the `assets/img` folder (they can be jpg or png files):
-    * A cover picture (named `student-name-cover.jpg` or `student-name-cover.png`)
-    * A profile picture (named `student-name.jpg` or `student-name.png`)
+**Since we have tons of awesome students on Learn, adding all the images to our project would result in a behemoth sized repository. So instead of adding them to our project, we will be uploading our images to imgur.com (a free image hosting site), and linking to the images respective URLs in our css file.**
+
+  * Upload your cover and profile pictures to imgur (they should be jpg or png files):
+    * Head to <a href="http://imgur.com/" target="_blank">imgur.com</a>
+    * click on the blue 'Upload images' button on the top of the page
+    * You can then drag and drop the cover, and profile images to that page, or use the 'browse your computer option to find them manually'
+    * Click on the 'Start Upload' button to upload the images
+    * If you hover over the top right of each image, you should see a link with 3 little dots on the left, hover over those dots and copy the *direct link* URL and paste that somewhere safe. *You will need to use these links in the `css/styles.css` file to be able to display the images in your profile*.
+
+
+  
+  * Now we're ready to create the CSS rules that we can use to display our pictures in the HTML later on.
+   * Head to the `css/styles.css` file.
+   * check out some students css in the file to see what you'll need to do.
+   
+  It should look something like thie 
+
+  ```css
+    #firstname-lastname-cover {
+      background-image: url("link to my imgur cover photo");
+    }
+
+    #firstname-lastname-card {
+      background-image: url("link to my imgur card photo");
+    }
+   ```
 
 #### Add your Profile page
 
   1. Copy another students `student-name.html` file and rename it to your name.
   2. Double-check that you added your cover and profile photo to the `img` directory
   3. Open up `your-name.html` and modify it with your information (links, bio etc).
-     * Adding the images is a bit tricky! Take a look at the `css/styles.css` or use inspect element for an idea of where those images come from.
 
 #### Add To The Index
 
