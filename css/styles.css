@@ -927,6 +927,14 @@ a:visited {
   background-image: url("../assets/img/sasuke-ak-halfwing.jpg");
 }
 
+#savannah-scott-cover {
+  background-image: url("../assets/img/savannah-scott-cover.jpg")
+}
+
+#savannah-scott-card {
+  background-image: url("../assets/img/savannah-scott.jpg")
+}
+
 #seth-goldberg-cover {
   background-image: url("../assets/img/seth-goldberg-cover.jpg");
 }
