@@ -133,10 +133,10 @@ a:visited {
   height: 400px;
 }
 #juan-rivera-cover {
-    background-image: url("/assets/img/juan-rivera-cover.jpg")
+    background-image: url("../assets/img/juan-rivera-cover.jpg")
 }
 #juan-rivera-card {
-    background-image: url("/assets/img/juan-rivera.jpg");
+    background-image: url("../assets/img/juan-rivera.jpg");
 }
 
 #nana-adukrow-cover {
