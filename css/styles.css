@@ -132,6 +132,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#samir-singh-cover {
+ background-image: url("http://i.imgur.com/8FneD7A.jpg");
+}
+#samir-singh-card {
+ background-image: url("http://i.imgur.com/HC3iaiL.jpg");
+}
+
 #juan-rivera-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera-cover.jpg");
 }
