@@ -132,6 +132,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#justin-lefurjah-cover{
+   background-image: url("http://i.imgur.com/TNP2xUy.jpg");
+}
+
+#justin-lefurjah-card{
+  background-image: url("http://i.imgur.com/9eTwPuu.jpg?1");
+}
 #juan-rivera-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera-cover.jpg");
 }
