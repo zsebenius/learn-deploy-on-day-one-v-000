@@ -888,7 +888,7 @@ a:visited {
 }
 
 #justin-thomas-card{
-  background-image:url("../assets/img/justin-thomas.jpg");
+  background-image:url("https://learn-verified.s3.amazonaws.com/justin-thomas.jpg");
 }
 
 #justin-thomas-cover{
@@ -2183,7 +2183,7 @@ a:visited {
 }
 
 #justin-thomas-card{
-  background-image:url("../assets/img/justin-thomas.jpg");
+  background-image:url("https://learn-verified.s3.amazonaws.com/justin-thomas.jpg");
 }
 
 #justin-thomas-cover{
@@ -3133,11 +3133,11 @@ a:visited {
 }
 
 #phil-grossman-cover {
-  background-image:url("../assets/img/phil-grossman-cover.jpg");
+  background-image:url("https://learn-verified.s3.amazonaws.com/phil-grossman-cover.jpg");
 }
 
 #phil-grossman-card {
-  background-image:url("../assets/img/phil-grossman.jpg");
+  background-image:url("https://learn-verified.s3.amazonaws.com/phil-grossman.jpg");
 }
 
 #michel-fuchs-card {
@@ -3197,11 +3197,11 @@ a:visited {
 }
 
 #norihisa-mori-cover {
-  background-image:url("../assets/img/norihisa-mori-cover.jpg");
+  background-image:url("https://learn-verified.s3.amazonaws.com/norihisa-mori-cover.jpg");
 }
 
 #norihisa-mori-card {
-  background-image:url("../assets/img/norihisa-mori.png");
+  background-image:url("https://learn-verified.s3.amazonaws.com/norihisa-mori.png");
 }
 
 #vidul-parthasarathy-card {
@@ -3475,8 +3475,235 @@ a:visited {
 #han-lee-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/han-cover.jpg");
 }
+
 #han-lee-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/han.jpg");
+}
+
+#nicholas-maxwell-profile {
+  background-image: url("http://i.imgur.com/ibZxEf8.png");
+}
+
+#nicholas-maxwell-cover {
+  background-image: url("http://i.imgur.com/WH8O60H.png");
+}
+
+#richard-hutsko-cover {
+  background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
+  
+}
+
+#richard-hutsko-card {
+  background-image: url("http://i.imgur.com/7KGTYMI.png");
+  
+}
+
+#bruce-molina-card {
+  background-image: url("http://i.imgur.com/4pglmta.jpg");
+}
+
+#bruce-molina-cover {
+  background-image: url("http://i.imgur.com/LAf3bdB.jpg");
+}
+
+#elaine-m-cover {
+  background-image: url("http://i.imgur.com/22qBb7B.jpg");
+}
+
+#elaine-m-card {
+  background-image: url("http://i.imgur.com/tYXvzuQ.jpg");
+}
+
+#camille-haley-cover {
+  background-image: url("http://i.imgur.com/Kk5eMKf.jpg");
+}
+
+#camille-haley-card {
+  background-image: url("http://i.imgur.com/a1JY4Wf.jpg");
+}
+
+#brad-reiss-cover {
+  background-image: url("http://i.imgur.com/2qzSMLM.jpg");
+}
+
+#brad-reiss-card {
+  background-image: url("http://i.imgur.com/VXD5wps.jpg");
+}
+
+#brad-rifkin-cover {
+  background-image: url("http://i.imgur.com/2RyqkiC.jpg");
+}
+
+#brad-rifkin-card {
+  background-image: url("http://i.imgur.com/x8CIQrh.jpg");
+}
+
+#scott-bewick-card {
+  background-image: url("http://i.imgur.com/Q9RJi21.jpg");
+}
+
+#scott-bewick-cover {
+  background-image: url("http://i.imgur.com/2RBLl3w.jpg");
+}
+
+#randy-gylling-cover {
+  background-image: url("http://i.imgur.com/emPX59J.jpg");
+}
+
+#randy-gylling-card {
+  background-image: url("http://i.imgur.com/Gs8J4J4.jpg");
+}
+
+#jason-casares-cover {
+    background-image: url("http://i.imgur.com/ZuPbk0A.jpg")
+}
+
+#jason-casares-card {
+    background-image: url("http://i.imgur.com/Ejc1F91.jpg");
+}
+
+#sandy-hogan-cover {
+  background-image: url("http://i.imgur.com/mawOn8E.jpg");
+}
+
+#sandy-hogan-card {
+  background-image: url("http://i.imgur.com/8Dwzw9Z.jpg");
+}
+
+#ben-shapiro-cover {
+  background-image: url("http://i.imgur.com/99eXxMw.jpg")
+}
+
+#ben-shapiro-card {
+  background-image: url("http://i.imgur.com/FIkFUup.jpg")
+}
+
+#howard-devennish-cover {
+    background-image: url("http://i.imgur.com/ISZjYpH.jpg")
+}
+#howard-devennish-card {
+    background-image: url("http://i.imgur.com/Bsodq49.jpg");
+}
+
+#alice-balbuena-cover {
+  background-image: url("http://i.imgur.com/7qYR4a4.jpg");
+}
+#alice-balbuena-card {
+  background-image: url("http://i.imgur.com/wnmkssM.jpg");
+}
+
+#keith-wellman-cover {
+  background-image: url("http://i.imgur.com/QgAfR81.jpg");
+}
+#keith-wellman-card {
+  background-image: url("http://i.imgur.com/ZoUbdj3.jpg");
+}
+
+#perla-yates-cover {
+  background-image: url("http://i.imgur.com/sn8iuwp.jpg");
+}
+#perla-yates-card {
+  background-image: url("http://i.imgur.com/iuDuwtB.jpg ");
+}
+
+#bill-gingher-card{
+  background-image: url("http://i.imgur.com/BtFe23k.jpg?1");
+}
+
+#bill-gingher-cover{
+  background-image: url("http://i.imgur.com/leFnQQl.jpggingher");
+}
+
+#joseph-lim-cover {
+  background-image: url("http://i.imgur.com/kyBb69j.jpg");
+}
+
+#joseph-lim-card {
+  background-image: url("http://i.imgur.com/1FZIbGo.jpg");
+}
+
+#joseph-lim-card.student-card::before {
+  background-image: linear-gradient(to top, #000, rgba(0, 0, 0, .0) 25%);
+}
+
+#brian-wu-cover {
+ background-image: url("http://i.imgur.com/HDiz15A.jpg");
+}
+
+#brian-wu-card {
+ background-image: url("http://i.imgur.com/0fsPhXt.jpg");
+}
+
+#yonk-foobar-cover {
+  background-image: url("http://media.gettyimages.com/photos/public-pay-phone-booths-stand-empty-inside-grand-central-stationin-picture-id142612737");
+}
+
+#yonk-foobar-card {
+  background-image: url("http://media.gettyimages.com/photos/october-1953-belgianborn-actor-audrey-hepburn-holding-a-western-union-picture-id3203876");
+}
+
+#aaron-sawyer-cover {
+  background-image: url("http://i.imgur.com/hBVBiaC.jpg");
+}
+
+#aaron-sawyer-card {
+  background-image: url("http://i.imgur.com/74hopFz.jpg");
+}
+
+#jennifer-dixon-cover {
+ background-image: url("http://i.imgur.com/GwHhQkZ.jpg");
+}
+
+#jennifer-dixon-card {
+ background-image: url("http://i.imgur.com/9jD6tLc.jpg");
+}
+
+#ashley-pereira-cover {
+  background-image: url("http://i.imgur.com/4k8N8aK.jpg");
+}
+
+#ashley-pereira-card {
+  background-image: url("http://i.imgur.com/Ex5xJcz.jpg");
+}
+
+#traci-ross-cover {
+  background-image: url("http://i.imgur.com/kDSVv8s.jpg")
+}
+#traci-ross-card {
+  background-image: url("http://i.imgur.com/eUJfgFI.jpg")
+}
+
+#yechiel-k-cover {
+  background-image: url("http://i.imgur.com/fcm6zBK.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#yechiel-k-cover:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#yechiel-k-card {
+  background-image: url("http://i.imgur.com/qpM0V8k.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#yechiel-k-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .view-profile-div {
