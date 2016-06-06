@@ -133,6 +133,16 @@ a:visited {
   height: 400px;
 }
 
+/*-----------------------------------*/
+#Elvin-Garcia-card{
+  background-image: url("https://dl.dropboxusercontent.com/u/9498683/img/self.JPG");
+}
+
+#Elvin-Garcia-cover{
+  background-image: url("https://dl.dropboxusercontent.com/u/9498683/img/backdrop.jpeg");
+}
+
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
