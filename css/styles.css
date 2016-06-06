@@ -1,6 +1,7 @@
 /* GLOBAL STYLES
 ======================== */
 
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -3498,12 +3499,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
@@ -3706,6 +3707,24 @@ a:visited {
 }
 
 #yechiel-k-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#natasha-carlyon-cover {
+  background-image: url(http://i.imgur.com/SNwRaPD.jpg?1)
+}
+
+  #natasha-carlyon-card {
+    background-image: url(http://i.imgur.com/tQqGZtx.jpg)
+}
+
+#natasha-carlyon-card:hover {
+  background-image: url(http://i.imgur.com/tQqGZtx.jpg)
   border: 3px #63bedc solid;
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
