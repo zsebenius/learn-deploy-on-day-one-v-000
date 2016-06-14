@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#malind-nikulski-cover {
+  background-image: url("http://i.imgur.com/0CBk5mR.jpg");
+}
+
+#malind-nikulski-card {
+  background-image: url("http://i.imgur.com/jMdgvip.jpg");
+}
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
@@ -3498,12 +3506,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
