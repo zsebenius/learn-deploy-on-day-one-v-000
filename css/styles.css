@@ -3714,6 +3714,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#nick-reichard-cover {
+  background-image: url("http://i.imgur.com/ttsW1ku.png");
+}
+
+#nick-reichard-card {
+  background-image: url("http://i.imgur.com/ZvikosK.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
