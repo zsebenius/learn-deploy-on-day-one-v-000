@@ -3498,12 +3498,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
@@ -3720,6 +3720,39 @@ a:visited {
 
 #nick-reichard-card {
   background-image: url("http://i.imgur.com/ZvikosK.png");
+}
+
+#bradley-watson-cover {
+  background-image: url("http://i.imgur.com/zGRszt7.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#bradley-watson-cover:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#bradley-watson-card {
+  background-image: url("http://i.imgur.com/wFaj8Pl.jpg");
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+
+#bradley-watson-card:hover {
+  border: 3px #63bedc solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .view-profile-div {
