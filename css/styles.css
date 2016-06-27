@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+  #aleta-lanier-cover {
+    background-image: url("http://i.imgur.com/Bfgmzjk.jpg");
+  }
+ 
+  #aleta-lanier-card {
+    background-image: url("http://i.imgur.com/Fa71kqM.jpg");
+  }
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
