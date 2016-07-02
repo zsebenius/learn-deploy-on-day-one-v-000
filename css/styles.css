@@ -132,7 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#alic-trossman-cover {
+ background-image: url("http://i.imgur.com/mDk6Z7b.jpg"); 
+}
 
+#alic-trossman-card {
+ background-image: url("http://i.imgur.com/4uQQp1S.jpg"); 
+}
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
