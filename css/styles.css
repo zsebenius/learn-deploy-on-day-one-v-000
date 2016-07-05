@@ -3772,6 +3772,18 @@ a:visited {
   background-image: url("http://i.imgur.com/ZvikosK.png");
 }
 
+#eleanor-graham-cover {
+  background-image: url("http://i.imgur.com/kuIXeR2.jpg");
+}
+
+#eleanor-graham-card {
+  background-image: url("http://i.imgur.com/oHSUiQq.jpg");
+}
+
+#web-link a{
+  color: #282828;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
