@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#adam-cooper-cover{
+   background-image: url("http://i.imgur.com/UusfOSS.jpg");
+}
+
+#adam-cooper-card{
+  background-image: url("http://i.imgur.com/5sewZ4G.jpg");
+}
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
