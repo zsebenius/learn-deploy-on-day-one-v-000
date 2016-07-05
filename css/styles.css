@@ -3692,11 +3692,11 @@ a:visited {
 }
 
 #andrew-stone-cover {
-  background-image: url(http://i.imgur.com/SfiBslw.jpg)
+  background-image: url("http://i.imgur.com/SfiBslw.jpg")
 }
 
 #andrew-stone-card {
-  background-image: url(http://i.imgur.com/xreCmip.jpg)
+  background-image: url("http://i.imgur.com/xreCmip.jpg")
 }
 
 #yechiel-k-cover {
