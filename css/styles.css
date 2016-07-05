@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#brian-reynolds-cover{
+   background-image: url("http://i.imgur.com/AvyD6Kd.jpg");
+}
+#brian-reynolds-card{
+  background-image: url("http://i.imgur.com/aqxDDnB.jpg");
+}
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
@@ -140,9 +147,11 @@ a:visited {
 #justin-lefurjah-card{
   background-image: url("http://i.imgur.com/9eTwPuu.jpg?1");
 }
+
 #juan-rivera-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera-cover.jpg");
 }
+
 #juan-rivera-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera.jpg");
 }
@@ -3498,12 +3507,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
