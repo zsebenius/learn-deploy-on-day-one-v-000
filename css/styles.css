@@ -152,7 +152,7 @@ a:visited {
 #aleta-lanier-cover {
   background-image: url("http://i.imgur.com/Bfgmzjk.jpg");
 }
- 
+
 #aleta-lanier-card {
   background-image: url("http://i.imgur.com/Fa71kqM.jpg");
 }
@@ -3786,6 +3786,16 @@ a:visited {
 
 #eleanor-graham-card {
   background-image: url("http://i.imgur.com/oHSUiQq.jpg");
+}
+
+#john-verdone-card{
+  background-image: url("http://i.imgur.com/pIr86Qk.jpg?1")
+}
+#john-verdone-cover {
+  background-image: url("http://i.imgur.com/E5J8v53.jpg");
+  background-size: 20%;
+  margin: 0 auto;
+
 }
 
 #web-link a{
