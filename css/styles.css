@@ -132,7 +132,12 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#richard-frost-card {
+  background-image: url("http://i.imgur.com/p15EIF8.png?1");
+}
+#richard-frost-cover {
+  background-image: url("http://i.imgur.com/sBsoTrF.jpg");
+}
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
