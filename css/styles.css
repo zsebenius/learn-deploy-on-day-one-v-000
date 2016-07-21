@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#kenlyn-terai-cover{
+   background-image: url("http://i.imgur.com/wwnYstS.jpg?1");
+}
+
+#kenlyn-terai-card{
+  background-image: url("http://i.imgur.com/5UVYZlM.jpg");
+}
+
 #adam-cooper-cover{
    background-image: url("http://i.imgur.com/UusfOSS.jpg");
 }
@@ -152,7 +160,7 @@ a:visited {
 #aleta-lanier-cover {
   background-image: url("http://i.imgur.com/Bfgmzjk.jpg");
 }
- 
+
 #aleta-lanier-card {
   background-image: url("http://i.imgur.com/Fa71kqM.jpg");
 }
