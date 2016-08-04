@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#mike-robey-cover {
+  background-image: url("http://i.imgur.com/UWlJzbs.jpg");
+}
+
+#mike-robey-card {
+  background-image: url("http://i.imgur.com/GU1XuYW.jpg?1");
+}
+
 #adam-cooper-cover{
    background-image: url("http://i.imgur.com/UusfOSS.jpg");
 }
@@ -152,7 +160,7 @@ a:visited {
 #aleta-lanier-cover {
   background-image: url("http://i.imgur.com/Bfgmzjk.jpg");
 }
- 
+
 #aleta-lanier-card {
   background-image: url("http://i.imgur.com/Fa71kqM.jpg");
 }
@@ -3799,7 +3807,7 @@ a:visited {
 #kerry-dougherty-cover {
   background-image: url("http://i.imgur.com/k7GlHYU.jpg");
 }
- 
+
 #kerry-dougherty-card {
   background-image: url("http://i.imgur.com/R5GjEBc.jpg");
 }
