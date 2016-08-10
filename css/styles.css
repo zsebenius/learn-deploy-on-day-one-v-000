@@ -4115,3 +4115,11 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+#brett-cline-card {
+  background-image: url("http://imgur.com/a/tvQZl")
+}
+
+#brett-cline-cover {
+  background-image: url("http://imgur.com/a/9V2r2")
+}
