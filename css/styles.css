@@ -3825,6 +3825,14 @@ a:visited {
   background-image: url("http://i.imgur.com/acbuATx.jpg");
 }
 
+#thai-nguyen-cover{
+   background-image: url("http://imgur.com/GghLrE4.jpg");
+}
+
+#thai-nguyen-card{
+  background-image: url("http://imgur.com/4FsVBEe.jpg");
+}
+
 #web-link a{
   color: #282828;
 }
