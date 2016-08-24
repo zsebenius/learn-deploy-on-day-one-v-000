@@ -133,6 +133,11 @@ a:visited {
   height: 400px;
 }
 
+#matt-hallquist-cover {
+  background-image: url("http://i.imgur.com/psQCXny.jpg");
+}
+#matt-hallquist-card {
+  background-image: url("http://i.imgur.com/x1t2grP.jpg");
 #enrique-tellez-cover {
   background-image: url("http://i.imgur.com/8hbYTgb.jpg");
 }
