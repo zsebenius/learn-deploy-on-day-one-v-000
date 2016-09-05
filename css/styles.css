@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#janine-rosen-cover {
+  background-image: url("http://i.imgur.com/R0VXllA.jpg");
+}
+
+#janine-rosen-card {
+  background-image: url("http://i.imgur.com/yOj7e3p.jpg");
+}
+
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
 }
