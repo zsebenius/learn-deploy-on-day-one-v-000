@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#marc-jaramillo-cover {
+  background-image: url("http://imgur.com/lRBe09e.jpg");
+}
+
+#marc-jaramillo-card {
+  background-image: url("http://imgur.com/jgbL2Sx.jpg");
+}
+
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
 }
