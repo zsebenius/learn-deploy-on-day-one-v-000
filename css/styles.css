@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#asha-mahatma-cover{
+  background-image: url("http://i.imgur.com/nZX1uc4.jpg");
+}
+#asha-mahatma-card{
+  background-image: url("http://i.imgur.com/FXJiQcy.jpg");
+}
+
 
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
@@ -142,12 +149,6 @@ a:visited {
   background-image: url("http://i.imgur.com/x1t2grP.jpg");
 }
 
-#asha-mahatma-cover{
-  background-image: url("http://i.imgur.com/nZX1uc4.jpg");
-}
-#asha-mahatma-card{
-  background-image: url("http://i.imgur.com/FXJiQcy.jpg");
-}
 
 
 
