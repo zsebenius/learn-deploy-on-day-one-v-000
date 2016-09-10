@@ -3414,17 +3414,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/david-elden-cover.jpg");
 }
 
-<<<<<<< HEAD
 #benny-hung-card {
-  background-image: url(http://i.imgur.com/T35VBUk.jpg?1)
+  background-image: url("http://i.imgur.com/T35VBUk.jpg?1")
 }
 
 #benny-hung-cover {
-  background-image: url(http://i.imgur.com/7xxwtz0.jpg?1)
+  background-image: url("http://i.imgur.com/7xxwtz0.jpg?1")
 }
 
-=======
->>>>>>> dc9bff577c68ab59456b6ad65d1703429e19948e
 #caleb-faught-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/caleb-faught-cover.jpg");
 }
