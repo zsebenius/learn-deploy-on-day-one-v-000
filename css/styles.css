@@ -3498,12 +3498,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
@@ -3721,6 +3721,17 @@ a:visited {
 #nick-reichard-card {
   background-image: url("http://i.imgur.com/ZvikosK.png");
 }
+
+/*my cover*/
+#jesse-wenger-cover {
+  background-image: url("http://i.imgur.com/aKzduXe.jpg");
+}
+
+/*my card*/
+#jesse-wenger-card {
+  background-image: url("http://i.imgur.com/Oadv8Br.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
