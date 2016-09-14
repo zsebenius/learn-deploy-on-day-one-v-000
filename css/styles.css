@@ -214,11 +214,19 @@ a:visited {
  }
 
 #jesse-novotny-cover {
-  background-image: url(http://i.imgur.com/fW0KLGa.jpg);
+  background-image: url("http://i.imgur.com/fW0KLGa.jpg");
 }
 
 #jesse-novotny-card {
-  background-image: url(http://i.imgur.com/U5aHNry.jpg);
+  background-image: url("http://i.imgur.com/U5aHNry.jpg");
+}
+
+#malind-nikulski-cover {
+  background-image: url("http://i.imgur.com/0CBk5mR.jpg");
+}
+
+#malind-nikulski-card {
+  background-image: url("http://i.imgur.com/jMdgvip.jpg");
 }
 
 #justin-lefurjah-cover{
