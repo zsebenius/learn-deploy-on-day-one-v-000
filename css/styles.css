@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#laurent-milne-cover {
+  background-image: url("http://i.imgur.com/2zUwSmM.jpg");
+}
+
+#laurent-milne-card {
+  background-image: url("http://i.imgur.com/JPNi3Nr.jpg");
+}
 
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
