@@ -4088,6 +4088,14 @@ a:visited {
   color: #282828;
 }
 
+#jesse-wenger-cover {
+  background-image: url("http://i.imgur.com/aKzduXe.jpg");
+}
+
+#jesse-wenger-card {
+  background-image: url("http://i.imgur.com/Oadv8Br.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
