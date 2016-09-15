@@ -4036,6 +4036,14 @@ a:visited {
   margin: 0 auto;
 }
 
+#bj-cantlupe-cover {
+  background-image: url("http://i.imgur.com/VkkQl0S.jpg")
+}
+
+#bj-cantlupe-card {
+  background-image: url("http://i.imgur.com/xxZBZtr.jpg");
+}
+
 #web-link a{
   color: #282828;
 }
