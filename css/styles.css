@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#alic-trossman-cover {
+ background-image: url("http://i.imgur.com/mDk6Z7b.jpg"); 
+}
+
+#alic-trossman-card {
+ background-image: url("http://i.imgur.com/4uQQp1S.jpg"); 
+}
+
 #matt-hallquist-cover {
   background-image: url("http://i.imgur.com/psQCXny.jpg");
 }
