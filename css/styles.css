@@ -134,7 +134,7 @@ a:visited {
 }
 
 #alic-trossman-cover {
- background-image: url("http://i.imgur.com/mDk6Z7b.jpg"); 
+ background-image: url("http://i.imgur.com/mDk6Z7b.jpg");
 }
 
 #alic-trossman-card {
@@ -3921,14 +3921,6 @@ a:visited {
   background-image: url("http://i.imgur.com/diB2Ors.jpg?1");
 }
 
-#levio-marotti-iii-cover {
-  background-image: url("http://i349.photobucket.com/albums/q400/tripscripts/beale_zps89b60e4b.jpg");
-}
-
-#levio-marotti-iii-card {
-  background-image: url("http://i349.photobucket.com/albums/q400/tripscripts/cropped_zpsdb6e140c.jpg");
-}
-
 #peter-humphrey-cover {
     background-image: url("http://i.imgur.com/qnQhvC3.gif");
 }
@@ -4125,7 +4117,7 @@ a:visited {
 }
 
 #scott-wakeman-cover {
- background-image: url("http://imgur.com/x9JEnIf.jpg"); 
+ background-image: url("http://imgur.com/x9JEnIf.jpg");
 }
 
 #scott-wakeman-card {
@@ -4459,5 +4451,3 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
-
-
