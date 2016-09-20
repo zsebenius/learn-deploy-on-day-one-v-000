@@ -4097,7 +4097,16 @@ a:visited {
   transition: 0.2s;
 }
 
-#bradley-watson-card:hover {
+#natasha-carlyon-cover {
+  background-image: url("http://i.imgur.com/tlSo5x2.jpg")
+}
+
+  #natasha-carlyon-card {
+    background-image: url("http://i.imgur.com/tQqGZtx.jpg")
+}
+
+#natasha-carlyon-card:hover {
+  background-image: url("http://i.imgur.com/tQqGZtx.jpg")
   border: 3px #63bedc solid;
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
