@@ -133,6 +133,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+#pamela-bortnick-cover {
+  background-image: url("http://i.imgur.com/kZGkLt1.jpg");
+}
+
+#pamela-bortnick-card {
+  background-image: url("http://i.imgur.com/jCN7y7n.jpg");
+}
+
 #laurent-milne-cover {
   background-image: url("http://i.imgur.com/2zUwSmM.jpg");
 }
