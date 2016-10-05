@@ -133,6 +133,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#bruno-boehm-cover {
+  background-image: url("http://i.imgur.com/V0xAVEs.jpg");
+}
+
+#bruno-boehm-card {
+  background-image: url("http://i.imgur.com/n6AAIKl.jpg");
+}
+
 #pamela-bortnick-cover {
   background-image: url("http://i.imgur.com/kZGkLt1.jpg");
 }
