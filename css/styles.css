@@ -4223,25 +4223,8 @@ a:visited {
   background-image: url("http://i.imgur.com/Oadv8Br.jpg");
 }
 
-#logan-mcansh-zoom-the-cover {
-  overflow: hidden;
-}
-.description-holder a[href='http://powerley.com'] {
-  color: #FC6C2B;
-  -webkit-transition: 300ms all ease-in-out;
-  transition: 300ms all ease-in-out;
-}
-.description-holder a[href='http://powerley.com']:hover {
-  color: #324354;
-}
 #logan-mcansh-cover {
   background-image: url("https://lgnmcnsh.me/twitter-header.jpg");
-  -webkit-transition: 1000ms all ease-in-out;
-  transition: 1000ms all ease-in-out
-}
-#logan-mcansh-cover:hover {
-  -webkit-transform: scale3d(1.3,1.3,1.3);
-          transform: scale3d(1.3,1.3,1.3);
 }
 
 #logan-mcansh-card {
