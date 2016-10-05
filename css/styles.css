@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+
+#john-schlesinger-cover {
+  background-image: url("http://i.imgur.com/pZQeLsz.jpg");
+}
+
+#john-schlesinger-card {
+  background-image: url("http://i.imgur.com/VupL6Te.jpg");
+}
+
 #adam-cooper-cover{
    background-image: url("http://i.imgur.com/UusfOSS.jpg");
 }
@@ -152,7 +161,7 @@ a:visited {
 #aleta-lanier-cover {
   background-image: url("http://i.imgur.com/Bfgmzjk.jpg");
 }
- 
+
 #aleta-lanier-card {
   background-image: url("http://i.imgur.com/Fa71kqM.jpg");
 }
