@@ -4272,6 +4272,14 @@ a:visited {
   background-image: url("http://imgur.com/Jdt1MQl.jpg");
 }
 
+#logan-mcansh-cover {
+  background-image: url("https://lgnmcnsh.me/twitter-header.jpg");
+}
+
+#logan-mcansh-card {
+  background-image: url("https://lgnmcnsh.me/logan-mcansh.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
