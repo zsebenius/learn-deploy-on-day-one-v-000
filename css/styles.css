@@ -4024,6 +4024,14 @@ a:visited {
   background-image: url("http://i.imgur.com/TY20oID.jpg")
 }
 
+#brian-odonoghue-cover {
+ background-image: url("http://i.imgur.com/FEpg2V4.jpg");
+}
+
+#brian-odonoghue-card {
+ background-image: url("http://i.imgur.com/Ssr3x8N.jpg");
+}
+
 #yechiel-k-cover {
   background-image: url("http://i.imgur.com/fcm6zBK.jpg");
   -webkit-transition: 0.2s;
