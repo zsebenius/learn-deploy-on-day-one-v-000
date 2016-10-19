@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#sarah-rosenshine-cover {
+  background-image: url("http://imgur.com/pqJh50o.jpg");
+}
+
+#sarah-rosenshine-card {
+  background-image: url("http://imgur.com/PSTPojs.jpg");
+}
+
 #bruno-boehm-cover {
   background-image: url("http://i.imgur.com/V0xAVEs.jpg");
 }
