@@ -4313,6 +4313,14 @@ a:visited {
   background-image: url("http://imgur.com/zW9wzns.jpg");
 }
 
+#charlie-lee-card {
+background-image: url("http://i.imgur.com/kqIKSNl.jpg");
+}
+
+#charlie-lee-cover {
+  background-image: url("http://i.imgur.com/PD5eyBV.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -4619,4 +4627,8 @@ a:visited {
 
 .clearfix:after {
     clear: both;
+}
+
+#firstname-lastname-cover {
+  background-image: url("http://imgur.com/kqIKSNl");
 }
