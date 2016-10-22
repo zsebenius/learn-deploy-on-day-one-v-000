@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#shannon-mccormack-cover {
+  background-image: url("http://i.imgur.com/cpQOEk8.jpg");
+}
+
+#shannon-mccormack-card {
+  background-image: url("http://i.imgur.com/KkdYzaz.jpg");
+}
+
 #bruno-boehm-cover {
   background-image: url("http://i.imgur.com/V0xAVEs.jpg");
 }
