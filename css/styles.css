@@ -4600,7 +4600,7 @@ a:visited {
 
   .details-block {
     display: inline-block;
-    width: 33%;
+    width: 100%;
   }
 
   .bio-block, .education-block, .experience-block {
