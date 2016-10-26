@@ -4368,6 +4368,17 @@ a:visited {
   background-image: url("http://imgur.com/zW9wzns.jpg");
 }
 
+#corinna-brock-moore-card{
+  background-image: url("http://imgur.com/YVyS8zZ.jpg");
+}
+
+#corinna-brock-moore-cover {
+  background-image: url("http://imgur.com/TFypHPe.jpg");
+}
+.corinna-italic{
+  font-style: italic;
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
