@@ -4407,8 +4407,17 @@ a:visited {
 #corinna-brock-moore-cover {
   background-image: url("http://imgur.com/TFypHPe.jpg");
 }
+
 .corinna-italic{
   font-style: italic;
+}
+
+#kevin-powell-cover{
+  background-image: url("http://i.imgur.com/dPJ8XDy.jpg");
+}
+
+#kevin-powell-card{
+  background-image: url("http://i.imgur.com/RFB1leX.jpg");
 }
 
 .view-profile-div {
