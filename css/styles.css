@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#hana-leander-cover {
+  background-image: url("http://i.imgur.com/1mYyfNh.jpg");
+}
+
+#hana-leander-card {
+  background-image: url("http://i.imgur.com/Py1mOcS.jpg");
+}
+
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
