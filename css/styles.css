@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#daniel-warren-cover {
+  background-image: url("http://i.imgur.com/S2z7pa9.jpg");
+}
+
+#daniel-warren-card {
+  background-image: url("http://i.imgur.com/tgPjxeJ.jpg");
+}
+
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
