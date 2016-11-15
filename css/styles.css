@@ -133,7 +133,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#brendan-dwyer-cover {
+  background-image: url("http://i.imgur.com/sPskPNH.jpg");
+}
 
+#brendan-dwyer-card {
+  background-image: url("http://i.imgur.com/RBn25hr.jpg");
+}
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
