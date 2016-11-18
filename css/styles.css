@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#kym-rohman-cover {
+  background-image: url("http://kymrohman.com/images/twitter_header-paint.jpg");
+}
+ 
+#kym-rohman-card {
+   background-image: url("http://kymrohman.com/images/kym-profile.jpg");
+}
+
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
