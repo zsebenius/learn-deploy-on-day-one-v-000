@@ -133,6 +133,9 @@ a:visited {
   display: block;
   height: 400px;
 }
+#brendan-dwyer-cover {
+  background-image: url("http://i.imgur.com/sPskPNH.jpg");
+}
 
 #kym-rohman-cover {
   background-image: url("http://kymrohman.com/images/twitter_header-paint.jpg");
@@ -156,6 +159,10 @@ a:visited {
 
 #daniel-warren-card {
   background-image: url("http://i.imgur.com/tgPjxeJ.jpg");
+}
+
+#brendan-dwyer-card {
+  background-image: url("http://i.imgur.com/RBn25hr.jpg");
 }
 
 #teresa-grosch-cover {
