@@ -133,6 +133,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#zander-sebenius-cover {
+    background-image: url("http://imgur.com/C47xVSk.jpg");
+  }
+
+#zander-sebenius-card {
+    background-image: url("http://imgur.com/uEhx3eV.jpg");
+  }
+
 #brendan-dwyer-cover {
   background-image: url("http://i.imgur.com/sPskPNH.jpg");
 }
@@ -140,7 +149,7 @@ a:visited {
 #kym-rohman-cover {
   background-image: url("http://kymrohman.com/images/twitter_header-paint.jpg");
 }
- 
+
 #kym-rohman-card {
    background-image: url("http://kymrohman.com/images/kym-profile.jpg");
 }
